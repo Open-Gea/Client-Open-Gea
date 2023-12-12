@@ -1,0 +1,1 @@
+export { Administration as default } from './Administration.jsx';

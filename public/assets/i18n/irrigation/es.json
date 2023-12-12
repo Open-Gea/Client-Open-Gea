@@ -1,0 +1,34 @@
+{
+    "title": "Necesidades De Riego",
+    "title2": "Administración Necesidades de Riego", 
+    "wateringNeedsIndexLabel": "Índice de necesidad de riego",
+    "wateringNeedsLabel": "Necesidades de riego",
+    "inputs": {
+      "farm": "Finca",
+      "home": "Inicio",
+      "myFarms":"Mis Fincas",
+      "irrigation":"Necesidades De Riego"
+    },
+    "dontWaterLabel": "No regar",
+    "moduleHelp": {
+      "aboutTitle": "Descripción",
+      "aboutParagraphs": [
+        "Esta funcionalidad ofrece información general sobre la necesidad de riego en tu locación, durante 15 días hora por hora a lo largo del día, durante el día y la noche. Para obtener esta información se debe:",
+        "Los valores que otorga la aplicación son de carácter cualitativo y cuantitativo. Otorga un índice de necesidad de riego y las siguientes descripciones:"
+      ],
+      "list1": [
+        "Hacer clic en el botón \"$t(wateringNeedsLabel)\".",
+        "Seleccionar la finca de la cual requieres información."
+      ],
+      "list2": [
+        "No Regar",
+        "Medio",
+        "Alto",
+        "Muy alto"
+      ],
+      "readMoreTitle": "Mas información",
+      "readMoreParagraphs": [
+        "La información que esta aplicación provee proviene principalmente de IBM Intelligence Suite un programa que brinda información sobre el clima para anticipar condiciones ambientales disruptivas, gestionar el riesgo de manera proactiva y desarrollar operaciones más sostenibles. La tecnología de IBM Intelligence Suite es obtenida a través de herramientas tecno espaciales. IBM Environmental Intelligence Suite es una solución SaaS impulsada por IA que proporciona inteligencia procesable oportuna y basada en hechos para gestionar de forma proactiva el impacto económico de los eventos meteorológicos severos y el cambio climático, basada en los datos meteorológicos más precisos del mundo."
+      ]
+    }
+  }

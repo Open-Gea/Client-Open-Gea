@@ -1,0 +1,60 @@
+{
+  "title": "Pronóstico Climático",
+  "dateLabel": "Fecha y hora",
+  "farmLabel": "Finca",
+  "pickFarmLabel": "Agregar Finca",
+  "selectedHour": "Selected hour",
+  "nextDaysTitle": "Próximos 15 días",
+  "precipitationTypes": {
+    "rain": "Lluvia",
+    "snow": "Nieve",
+    "generic": "Precipitación",
+    "unknown": "Desconocido"
+  },
+  "forecastSummary": {
+    "status": "Estado",
+    "uvIndex": "Índice UV",
+    "cloudCover": "Nubosidad"
+  },
+  "forecastTemperature": {
+    "temperature": "Temperatura",
+    "temperatureFeelsLike": "Sensación Térmica"
+  },
+  "forecastRain": {
+    "precipChance": "Probabilidad",
+    "pp": "Pp"
+  },
+  "forecastHumidity": {
+    "relativeHumidity": "Humedad",
+    "pressureMeanSeaLevel": "Presión relativa"
+  },
+  "forecastWind": {
+    "windSpeed": "Velocidad",
+    "windDirectionCardinal": "Dirección"
+  },
+  "validations": {
+    "mustBeTopOfHour": "La hora debe ser en punto.",
+    "minDate": "La fecha debe ser mayor a la seleccionada.",
+    "maxDate": "La fecha debe ser menor a la seleccionada."
+  },
+  "alerts": {
+    "noAvailableFarmsTitle": "No hay fincas disponibles",
+    "noAvailableFarmsDescription": "Se deben agregar fincas para poder usar esta funcionalidad. Por favor agrega una finca.",
+    "selectDateTimeTitle": "Selecciona una fecha y hora.",
+    "selectDateTimeDescription": "Por favor selecciona una fecha y hora.",
+    "forecastNotAvailableTitle": "Pronóstico no disponible.",
+    "forecastNotAvailableDescription": "El pronóstico no está disponible para la fecha y hora seleccionadas. Por favor prueba con otra fecha y hora.",
+    "nextDaysForecastNotAvailableTitle": "Pronóstico no disponible.",
+    "nextDaysForecastNotAvailableDescription": "El pronóstico de los próximos 15 días no está disponible. Por favor prueba con otra fecha y hora."
+  },
+  "moduleHelp": {
+    "aboutTitle": "Descripción",
+    "aboutParagraphs": [
+      "Esta funcionalidad ofrece valores de precipitación, temperatura, sensación térmica, precipitaciones, velocidad y dirección del viento, humedad relativa y preción relativa, para una locación determinda en un horario y fecha definidos por el usuario. Se pueden seleccionar fechas hasta de 15 días futuros partiendo desde la fecha actual. A su vez la funcionalidad ofrece un resumen de temperaturas máximas y mínimas, precipitaciones para los siguientes 15 días desde la fecha actual."
+    ],
+    "readMoreTitle": "Más información",
+    "readMoreParagraphs": [
+      "La información que esta aplicación provee proviene principalmente de IBM Intelligence Suite un programa que brinda información sobre el clima para anticipar condiciones ambientales disruptivas, gestionar el riesgo de manera proactiva y desarrollar operaciones más sostenibles. La tecnología de IBM Intelligence Suite es obtenida a través de herramientas tecno espaciales. IBM Environmental Intelligence Suite es una solución SaaS impulsada por IA que proporciona inteligencia procesable oportuna y basada en hechos para gestionar de forma proactiva el impacto económico de los eventos meteorológicos severos y el cambio climático, basada en los datos meteorológicos más precisos del mundo."
+    ]
+  }
+}

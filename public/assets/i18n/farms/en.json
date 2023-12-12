@@ -1,0 +1,63 @@
+{
+  "title": "My Farms",
+  "title2": "Farms Management",
+  "noCertificateUploaded": "No uploaded certificate",
+  "certificateDescription": "You can upload your sustainable agriculture certificates and/or farm best practices",
+  "farmDetails": {
+    "title": "Farm location",
+    "farmLabel": "Farm",
+    "ownerLabel": "Owner",
+    "countryLabel": "Country"
+  },
+  "inputs": {
+    "name": "Name",
+    "phone": "Phone",
+    "country": "Country",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "addFarm": "Add Farm",
+    "findFarm": "Find farm",
+    "saveNewFarm": "Save",
+    "saveEditFarm": "Save Changes",
+    "filterTooltip": "Filter",
+    "saveCertificate": "Upload Certificate",
+    "home":"Home",
+    "myFarms":"My Farms",
+    "farmsInformation":"Farms Information",
+    "surface": "Surface (Ha)",
+    "owner": "Owner"
+  },
+  "menuPopover": {
+    "title": "Edit Finca",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "validations": {
+    "requiredName": "Enter a name",
+    "requiredPhone": "Enter a phone number",
+    "requiredCountry": "Choose a country",
+    "length": "Should have at least {{val}} characters",
+    "noLocationSummary": "Location permissions are blocked",
+    "noLocationPermission": "You need to enter a latitude and longitude or enable location permissions to determine your farm's location",
+    "chooseOwner":"Please assign an owner",
+    "chooseOwnerSecurity":"Please reassign the owner for security reasons",
+    "ownerRequired":"Owner is required"
+  },
+  "farmTable": {
+    "nameHeader": "Name",
+    "phoneHeader": "Phone",
+    "ownerHeader": "Owner",
+    "countryHeader": "Country",
+    "locationHeader": "Location",
+    "certificateHeader": "Certificate",
+    "sortAsc": "sorted ascending",
+    "sortDesc": "sorted descending",
+    "openCertificates": "Open Certificates",
+    "more": "Details"
+  },
+  "certificateTable": {
+    "title": "CERTIFICATES",
+    "nameHeader": "NAME",
+    "uploadedDateHeader": "Upload date"
+  }
+}

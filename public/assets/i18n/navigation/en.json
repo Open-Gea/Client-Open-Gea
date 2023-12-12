@@ -1,0 +1,81 @@
+{
+  "modules": {
+    "farms": "My Farms",
+    "water-footprint": "Water Footprint",
+    "watering-needs": "Watering Needs",
+    "agronomic-data": "Agronomic Data",
+    "weather-forecast": "Weather Forecast",
+    "seasonal-forecast": "Seasonal Forecast",
+    "historical-record" : "Historical Record",
+    "historical-record-options": {
+      "farms-information":"Farms Information",
+      "agriculture-productions":"Agriculture Productions",
+      "accounting":"Accounting",
+      "staffing":"Staffing"
+    },
+    "qr": "QR Code",
+    "carbon-footprint": "Carbon Footprint",
+    "soilRegenerationPlan": "Soil Regeneration Plan",
+    "selfDiagnosisSustainability": "Sustainability Self Assessment",
+    "autodiag": "Autodiag",
+    "farmsAssociated":"Farms Associated to the Organization",
+    "organizations": "Organizations",
+    "invitesInformation":"Invites Information",
+    "requestsInformation":"Requests Information",
+    "organizationsActions":"Actions in Organizations",
+    "myCooperatives":"My Organizations"
+  },
+  "cooperativeModules": {
+    "myCooperative":"My Organization",
+    "myFarms":"My Farms",
+    "geolocation":"Georeferencing",
+    "farmsInformation":"Farms Information",
+    "carboonFootprint":"Carbon Footprint",
+    "evotranspiracion":"Hydric Footprint",
+    "climateInformation":"Weather Forecasts",
+    "waterNeeds":"Water Needs",
+    "agronomicData":"Agronomic Data",
+    "membersManagement":"Members Management",
+    "members":"Members",
+    "myMembers":"Members Information",
+    "groupsInformation":"Groups Information",
+    "invitesInformation":"Invites Information",
+    "requestsInformation":"Requests Information",
+    "organization":"Organization",
+    "registerProducts":"Products Registration",
+    "dashboardAccess":"Dashboard Access",
+    "news":"News",
+    "financeData":"Financial Data",
+    "certifications":"Certifications",
+    "calendar":"Calendar"
+  },
+  "adminModules":{
+    "header":"Administrator | Home",
+    "management":"Administration",
+    "managementLong":"Administration - Management & Authorizations",
+    "users":"Users",
+    "statistics":"Statistics",
+    "userRegisteredInYvY":"Users registered per country",
+    "statisticsLong":"Statistics - Graphs and Records",
+    "userRegisteredInYvY-U":"Users Registered Per Country",
+    "userRegisteredPerYear":"Users Registered Per Year",
+    "countries":"Countries"
+  },
+  "actions": {
+    "home": "Home",
+    "login": "Login",
+    "register": "Sign Up",
+    "logout": "Log out"
+  },
+  "roles": {
+    "default-role": "User",
+    "admin": "Administrator",
+    "organization":"Organization"
+  },
+  "moduleHelp": {
+    "aboutTitle": "Description",
+    "aboutParagraphs": [
+      "YvY is a web application designed for small farmers, through YvY you can get climate forecasts, agronomic data and other functionalities for sustainable production management."
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "titleG":"Georeferenciacion",
+  "useGuide":"Guía de uso",
+  "georeferencingMessage": "En el mapa puede visualizar todas las fincas asociadas a ",
+  "useGuideMessages": {
+    "general":"Explicación sobre uso del mapa y búsqueda  por medio de los iconos:",
+    "mapIcon":"Indica la ubicación de la finca en el mapa, al realizar un click en el icono enfocará en la localización y con doble click realiza desenfoque de la localización. También, al pasar el mouse encima del icono nos mostrara información detallada de la finca.",
+    "detailsIcon":"Se encuentra localizado en la esquina superior derecha del mapa, al dar click sobre este muestra la lista de fincas, en donde podremos removerlas o agregarlas segun se requiera en el mapa",
+    "filterIcon":"Se encuentra junto a la barra de busqueda, nos permite filtrar las fincas por pais"
+  },
+  "farmDetails": {
+    "title": "Ubicación de la finca",
+    "farmLabel": "Finca",
+    "ownerLabel": "Propietario",
+    "countryLabel": "País"
+  },
+  "inputs": {
+    "name": "Nombre",
+    "country": "País",
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "findFarm": "Buscar finca",
+    "filterTooltip": "Filtrar",
+    "home":"Inicio",
+    "myFarms":"Mis Fincas",
+    "farmsInformation":"Informacion de Fincas",
+    "openGuide":"Abrir Guia",
+    "icon":"Icono",
+    "use":"Uso"
+  },
+  "farmTable": {
+    "nameHeader": "Nombre",
+    "phoneHeader": "Teléfono",
+    "ownerHeader": "Dueño",
+    "countryHeader": "País",
+    "locationHeader": "Ubicación",
+    "certificateHeader": "Certificación",
+    "sortAsc": "ordenado asc.",
+    "sortDesc": "ordenado desc.",
+    "openCertificates": "Ver Certificados"
+  }
+}

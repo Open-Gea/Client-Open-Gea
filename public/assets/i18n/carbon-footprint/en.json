@@ -1,0 +1,144 @@
+{
+  "title": "Carbon Footprint",
+  "title2": "Carbon Footprint Management",
+  "navigation": {
+    "home": "Home",
+    "myFarms": "My Farms",
+    "carbonFoot":"Carboon Footprint"
+  },
+  "inputs": {
+    "farmLabel": "Farm",
+    "footprintCalc": "Carbon Footprint Calculation",
+    "yearLabel": "Year",
+    "allYears":"All Years",
+    "categoryLabel": "Category",
+    "categoryOptions": {
+        "Extintores" : "Fire Extinguishers",
+        "Fugas de Refrigerante" : "Refrigerant Leaks",
+        "Combustibles" : "Fuels",
+        "Consumo Electricidad" : "Electricity Consumption",
+        "Fertilizante Orgánico" : "Organic Fertilizer",
+        "Aceites Lubricantes" : "Lubricating Oils",
+        "Fugas de refrigerante" : "Refrigerant Leakage",
+        "Fertilizante Sintetico": "Synthetic Fertilizer",
+        "Aguas Residuales" : "Wastewater",
+        "Encalado de suelos" : "Floor Liming",
+        "Acetileno": "Acetylene",
+        "Residuo sólido": "Solid Residue"
+    },
+    "emissionFactors":{
+      "Energía Eléctrica" : "Electric Energy",
+      "Urea ":"Urea",
+      "Compost":"Compost",
+      "Estiércol vacuno":"Manure Bovine",
+      "Estiércol cerdos":"Manure Pigs",
+      "Estiércol caballo":"Manure Horses",
+      "Estiércol aves":"Manure Birds",
+      "Gallinaza":"",
+      "Lubricante":"Lubricant",
+      "Nitrogenados":"Nitrogenous",
+      "Tanques sépticos":"Septic Tanks",
+      "Descarga al río ":"Discharge to the river",
+      "Laguna":"Lagoon",
+      "Piedra caliza":"Limestone",
+      "Cal dolomita":"Dolomite Lime",
+      "Acetileno":"Acetylene",
+      "GLP":"GLP",
+      "Gasolina":"Gasoline",
+      "Relleno Sanitario":"Landfill",
+      "HFC 125": "HFC 125",
+      "HFC-23": "HFC-23",
+      "HFC-41":"HFC-41",
+      "HFC-227ea": "HFC-227ea",
+      "HFC-134a": "HFC-134a",
+      "HFC-236fa": "HFC-236fa",
+      "PFC-31-10": "PFC-31-10",
+      "PQS": "PQS",
+      "R410-a":"R410-a",
+      "CF4": "CF4",
+      "R-507a": "R-507a",
+      "R-502": "R-502",
+      "R12": "R12",
+      "R-22": "R-22",
+      "R-407a": "R-407a",
+      "R-407c": "R-407c",
+      "R-404a": "R-404a",
+      "R-134a": "R-134a",
+      "R-717 (ammonia)": "R-717 (ammonia)",
+      "R-32": "R-32",
+      "R-290 (propano)": "R-290 (propane)",
+      "R-600a (isobutano)": "R-600a (isobutane)",
+      "R-744 (CO2)": "R-744 (CO2)",
+      "LPG": "LPG",
+      "Diesel":"Diesel",
+      "PFC-143": "PFC-143",
+      "CO2": "CO2"
+    },
+    "factorLabel": "Emission factor",
+    "consumptionLabel": "`Consumption ({{unit}})",
+    "consumptionUnits":{
+        "Litros": "Liters",
+        "Cabezas/Año":"Heads/Year",
+        "Personas/Año":"People/Year"
+    },
+    "nitrogenRateLabel": "Nitrogen rate [Optional]",
+    "waterRateLabel": "Water rater [Optional]",
+    "percentageLabel": "Percentage of N (%)",
+    "applyingRateLabel": "Applying rate (kg/hec)",
+    "submitCalc": "Calculate",
+    "calcError": "Something went wrong. Please try again",
+    "restartSession": "restart session"
+  },
+  "alerts": {
+    "noFarmSelected": "Please select a farm",
+    "noCarbonFoorprintCalc": "There are no Carbon Footprint calculations available for the selected farm, click on \"$t(inputs.footprintCalc)\" to create one.",
+    "selectFarm":"Please select a farm to get the available carbon footprints"
+  },
+  "dialogs": {
+    "deleteCalcTitle": "Confirm deletion",
+    "deleteCalcDescription": "Are you sure you want to delete this calculation?",
+    "calcResultTitle": "Calculation Results",
+    "calcSummaryTitle": "Calculation Summary"
+  },
+  "calcTable": {
+    "dateLabel": "Calculation date",
+    "productLabel": "Emission source",
+    "resultLabel": "Result",
+    "yearLabel": "Calculation year",
+    "detailsLabel": "Details",
+    "actionslabel": "Actions",
+    "categoryLabel": "Category",
+    "consumptionLabel": "Consumption",
+    "totalMsg":"Total in "
+  },
+  "validations": {
+    "requiredFactor": "Select an emission factor",
+    "requiredYear": "Select a year",
+    "consumptionRequired": "Enter consumption",
+    "invalidNumber": "Enter a valid number",
+    "greaterThanZero": "Number must be greater than zero"
+  },
+  "moduleHelp": {
+    "aboutTitle": "Description",
+    "aboutParagraphs": [
+      "This functionality allows the calculation of the carbon footprint of agricultural activities / the farm by entering the consumption of each of the emission sources, the calculation is performed annually and provides the result in tons of CO2 equivalent emitted. For the calculation and conversion of the data entered in CO2 emitted YvY uses the methodology proposed by GHG protocol, which is one of the methodologies that is widely used and recognized in the world, and the one used by Plan21 Foundation in its Carbonocero program.",
+      "IMPORTANT: It is not a certificate of emission of the farm, since the data is not validated by a third party, it is a self-assessment that allows the user to obtain data to incorporate in their planning and make projections and improvement plans in the management of the farm."
+    ],
+    "readMoreTitle": "Read More",
+    "readMoreParagraphs": [
+      "To perform the calculations, YvY uses the Global Warming Potentials published in the fifth IPCC report. The Emission Factors of the same report, or those of each country in question in case they are known or published. The Calorific Values are the same. The data published by IPCC are used by default, and when reliable national data are available, these are used."
+    ]
+  },
+  "filter":{
+    "label":{
+      "all": "All",
+      "emissionFactor": "Emission Factor",
+      "year": "Year",
+      "filterBy": "Filter By...",
+      "filter": "Filter",
+      "total": "Total of Carbon Footprint"
+    },
+    "applyFilter" : "Apply Filter",
+    "noFilter" : "Delete Filter"
+  }
+}

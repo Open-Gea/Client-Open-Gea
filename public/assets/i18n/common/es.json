@@ -1,0 +1,33 @@
+{
+  "accept": "Aceptar",
+  "cancel": "Cancelar",
+  "open": "Abrir",
+  "close": "Cerrar",
+  "delete": "Eliminar",
+  "yes":"Si", 
+  "no":"No", 
+  "about": "Acerca de",
+  "seeMore": "Ver más",
+  "print": "Imprimir",
+  "defaultSelectValue": "Selecciona una opción",
+  "coordinates": {
+    "latitude": "Latitud",
+    "longitude": "Longitud"
+  },
+  "continue":"Continuar",
+  "back":"Regresar",
+  "save":"Guardar",
+  "error":"Se ha producido un error intente más tarde.",
+  "errorMessage":"Por favor, rellene todos los campos antes de continuar.",
+  "successMessage":"Guardado exitosamente.",
+  "updatedMessage":"Actualizado exitosamente.",
+  "form":{
+    "save":"Guardar"
+  },
+  "year":"Año",
+  "completed":"Completado",
+  "fieldRequired":"Campo requerido",
+  "positiveNumberRequired": "Numero valido requerido",
+  "details": "Detalles"
+
+}

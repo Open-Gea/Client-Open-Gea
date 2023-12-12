@@ -1,0 +1,184 @@
+{
+  "dimensions": [
+      {
+          "rt": [
+              "1673136000000"
+          ],
+          "t": [
+              "1676246400000",
+              "1675641600000",
+              "1675036800000"
+          ]
+      },
+      {
+          "rt": [
+              "1673049600000"
+          ],
+          "t": [
+              "1676246400000",
+              "1675641600000",
+              "1675036800000"
+          ]
+      },
+      {
+          "rt": [
+              "1672963200000"
+          ],
+          "t": [
+              "1676246400000",
+              "1675641600000",
+              "1675036800000"
+          ]
+      },
+      {
+          "rt": [
+              "1672876800000"
+          ],
+          "t": [
+              "1675641600000",
+              "1675036800000",
+              "1674432000000"
+          ]
+      },
+      {
+          "rt": [
+              "1672790400000"
+          ],
+          "t": [
+              "1675641600000",
+              "1675036800000",
+              "1674432000000"
+          ]
+      }
+  ],
+  "meta": {
+      "attributes": {
+          "Grib1_Center": "250",
+          "Grib1_Interval_Name": "product valid, interval = (RT + P1) to (RT + P2)",
+          "Grib1_Interval_Type": "2",
+          "Grib1_Level_Desc": "Specified height level above ground",
+          "Grib1_Level_Type": "105",
+          "Grib1_Parameter": "25",
+          "Grib1_Subcenter": "1",
+          "Grib1_TableVersion": "2",
+          "Grib_Statistical_Interval_Type": "2",
+          "Grib_Variable_Id": "VAR_250-1-2-25_L105_I7_Day_S2",
+          "coordinates": "reftime time height_above_ground lat lon ",
+          "description": "Temperature anomaly",
+          "grid_mapping": "LatLon_Projection",
+          "long_name": "Temperature anomaly (7_Day) @ Specified height level above ground",
+          "missing_value": "NaN",
+          "units": "K"
+      },
+      "cover-href": "https://api.weather.com/v2/tiler/coverage?products=502:Temperatureanomalyheightaboveground7Day2&t={t}&rt={rt}&apiKey={apiKey}",
+      "data-aggregate-href": "https://api.weather.com/v2/tiler/data-aggregate?products=502:Temperatureanomalyheightaboveground7Day2&t={t}&rt={rt}&lod={lod}&x={x}&y={y}&apiKey={apiKey}",
+      "data-href": "https://api.weather.com/v2/tiler/data?products=502:Temperatureanomalyheightaboveground7Day2&t={t}&rt={rt}&lod={lod}&x={x}&y={y}&apiKey={apiKey}",
+      "defaultValidity": 0,
+      "description": "Subseasonal Anomaly Forecast",
+      "dimension": {
+          "geox": {
+              "id": "geox",
+              "primary": false,
+              "type": "float",
+              "unit": "degrees_east"
+          },
+          "geoy": {
+              "id": "geoy",
+              "primary": false,
+              "type": "float",
+              "unit": "degrees_north"
+          },
+          "rt": {
+              "id": "rt",
+              "primary": true,
+              "type": "float",
+              "unit": ""
+          },
+          "t": {
+              "id": "t",
+              "primary": false,
+              "type": "double",
+              "unit": "Day since 2019-01-22T00:00:00Z"
+          }
+      },
+      "dimensions": [
+          "t",
+          "geoy",
+          "geox",
+          "rt"
+      ],
+      "label": "Temperatureanomalyheightaboveground7Day2",
+      "tileset": {
+          "Native": {
+              "crs": "EPSG:4326",
+              "envelope": {
+                  "maxX": "180.0",
+                  "maxY": "89.24999237060547",
+                  "minX": "-180.0",
+                  "minY": "-89.50000762939453"
+              },
+              "name": "Native",
+              "pixel": {
+                  "h": 716,
+                  "w": 1440
+              },
+              "tile": {
+                  "h": 256,
+                  "w": 256
+              },
+              "tiles": [
+                  {
+                      "height": 3,
+                      "lod": -1,
+                      "width": 6,
+                      "x": 0,
+                      "y": 0
+                  }
+              ],
+              "wgs84envelope": {
+                  "maxX": "180.0",
+                  "maxY": "89.24999237060547",
+                  "minX": "-180.0",
+                  "minY": "-89.50000762939453"
+              }
+          },
+          "Web Mercator": {
+              "crs": "EPSG:3857",
+              "name": "Web Mercator",
+              "tile": {
+                  "h": 256,
+                  "w": 256
+              },
+              "tiles": [
+                  {
+                      "height": 1,
+                      "lod": 0,
+                      "width": 1,
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "height": 2,
+                      "lod": 1,
+                      "width": 2,
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "height": 4,
+                      "lod": 2,
+                      "width": 4,
+                      "x": 0,
+                      "y": 0
+                  }
+              ]
+          }
+      },
+      "tilesets": [
+          "Native",
+          "Web Mercator"
+      ],
+      "ttl": 864000,
+      "updateFrequency": 86400
+  }
+}

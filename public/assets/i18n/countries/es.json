@@ -1,0 +1,46 @@
+{
+  "title": "Administración",
+  "title2": "Administración de Paises",
+  "farmDetails": {
+    "title": "Ubicación de la finca",
+    "farmLabel": "Finca",
+    "ownerLabel": "Propietario",
+    "countryLabel": "País"
+  },
+  "inputs": {
+    "addCountry": "Añadir País",
+    "findCountry": "Buscar País",
+    "saveNewCountry": "Guardar",
+    "saveEditCountry": "Guardar Cambios",
+    "filterTooltip": "Filtrar",
+    "home":"Inicio",
+    "countriesInformation":"Informacion de Paises",
+    "code":"Código de País",
+    "name":"Nombre",
+    "linkInfo":"Para ingreso del código de país, use la siguiente ",
+    "list":"lista",
+    "countries": "Paises"
+  },
+  "menuPopover": {
+    "title": "Editar País",
+    "edit": "Editar",
+    "delete": "Borrar",
+    "confirmDelCountry":"Confirmar Eliminación de País",
+    "confirmRemCountry":"¿Esta seguro de que desea borrar el país ",
+    "confirmRem2Country":" ?? Una vez eliminado ya no podra ser usado."
+  },
+  "validations": {
+    "requiredName": "Introduce un nombre",
+    "requiredCode": "Por favor selecciona un país",
+    "length": "Debe tener al menos {{val}} caracteres",
+    "noCountries":"No paises encontrados, presione 'Añadir País' para agregar un país",
+    "countryExist": "¡El pais ya existe!"
+  },
+  "countriesTable": {
+    "codeHeader": "Código",
+    "nameHeader": "Nombre",
+    "sortAsc": "ordenado asc.",
+    "sortDesc": "ordenado desc.",
+    "accions":"Acciones"
+  }
+}

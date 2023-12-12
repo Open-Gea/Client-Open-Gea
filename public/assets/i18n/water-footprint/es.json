@@ -1,0 +1,75 @@
+{
+  "title": "Huella Hídrica",
+  "title2": "Administracion Huellas Hídricas",
+  "inputs": {
+    "farmLabel": "Finca",
+    "footprintSubmit": "Calcular Huella Hídrica",
+    "allYears":"Todos los Años",
+    "yearLabel": "Año",
+    "home":"Inicio",
+    "myFarms":"Mis Granjas",
+    "hydricFootprints":"Huella Hídricas",
+    "waterFootprintsMessage":"Porfavor seleccione una granja para obtener las huellas hidricas disponibles"
+  },
+  "footprintCalcModal": {
+    "title": "Cálculo de Huella Hídrica",
+    "productLabel": "Producto",
+    "sowDateLabel": "Fecha de siembra",
+    "harvestLabel": "Fecha de cosecha",
+    "tonsLabel": "Toneladas",
+    "hectaresLabel": "Hectáreas",
+    "submitButton": "Calcular"
+  },
+  "footprintTable": {
+    "dateHeader": "Fecha de petición",
+    "productHeader": "Nombre del producto",
+    "detailHeader": "Detalles"
+  },
+  "footprintDialogResult": {
+    "title": "Resultado del calculo",
+    "footTotal": "Huella Hídrica Total:",
+    "footGreen":"Huella Hídrica Verde:",
+    "footBlue":"Huella Hídrica Azul:"
+  },
+  "footprintResult": {
+    "summaryTitle": "Resumen de la evaluación",
+    "carbonFootprintLabel": "Huella de carbono",
+    "qrCodeLabel": "Código QR",
+    "requestDate": "Fecha de petición",
+    "sowDate": "Fecha de siembra",
+    "harvestDate": "Fecha de cosecha",
+    "totalWaterFootprint": "Huella Hídrica Total",
+    "greenWaterFootprint": "Huella Hídrica Verde",
+    "blueWaterFootprint": "Huella Hídrica Azul",
+    "product": "Producto",
+    "hectares": "Hectáreas",
+    "tons":"Toneladas"
+  },
+  "validations": {
+    "noFarmSelected": "Selecciona una finca primero por favor",
+    "noProductSelected": "Selecciona un producto",
+    "noDateSelected": "Introduce una fecha por favor",
+    "maxSowDate": "La fecha de siembra no puede ser posterior a la fecha actual",
+    "maxHarvestDate": "La fecha de cosecha debe ser porterior a la fecha de siembra",
+    "requiredTonsAmount": "Introduce la cantidad de toneladas del cultivo",
+    "requiredHectaresAmount": "Introduce la cantidad de hectáreas del cultivo",
+    "invalidNumber": "Introduce un número válido",
+    "greaterThanZero": "Introduce un número mayor a cero",
+    "noCalculationDoneAlert": "Aún no se han realizado cálculos de Evapotranspiración de la finca seleccionada, haz click en \"$t(inputs.footprintSubmit)\" para crear una nueva.",
+    "defaultError": "Algo salió mal. Intentelo de nuevo"
+  },
+  "moduleHelp": {
+    "aboutTitle": "Descripción",
+    "aboutParagraphs": [
+      "El cálculo de la huella hídrica que ofrece YvY está basado en la evapotranspiración del cultivo según su etapa de desarrollo. La huella hídrica representa el consumo de agua por parte del cultivo a lo largo de un ciclo de cultivo desde siembra a cosecha, y de cosecha a cosecha en el caso de cultivos perennes. La Huella Hídrica calculada corresponde a la azul y a la verde, y la Total la suma de ambas. La gris aún no se puede calcular a través de YvY.",
+      "Para poder efectuar estos cálculos, se necesitan los datos climáticos como precipitación total diaria, evapotranspiración y temperaturas. También se obtienen los datos del requerimiento de riego de las plantas. Los datos de requerimiento de riego y precipitación se obtienen de Meteostat. Para realizar el cálculo de evapotranspiración efectiva se utilizan las siguientes ecuaciones para la obtención de la precipitación efectiva:"
+    ],
+    "list1": [
+      "HH Azul, se refiere al consumo de los recursos hídricos azules (agua dulce), superficial o subterránea. Consumo se refiere a la pérdida de agua en cuerpos de agua disponibles en la superficie o en acuíferos subterráneas en el área de la cuenca. La pérdida ocurre cuando el agua se evapora, no regresa a la misma cuenca, es dispuesta al mar o se incorpora a un producto.",
+      "HH Gris, corresponde a la contaminación y no se calcula todavía.",
+      "HH Verde, se refiere al consumo de recursos de agua verdes (agua de lluvia que no se convierte en escorrentía sino que se incorpora en productos agrícolas)."
+    ],
+    "readMoreTitle": "Mas información",
+    "list2": ["Precipitación efectiva (Pe) donde Pe=0.8*Precipitación-25 SiP>75mm/mes y Pe=0.6*P-10 Si P<75mm/mes"]
+  }
+}

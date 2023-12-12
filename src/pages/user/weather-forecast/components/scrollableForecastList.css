@@ -1,0 +1,55 @@
+.forecast__scrollable {
+  position: relative;
+}
+
+.forecast__scrollable__container {
+  /* Hides scrollbar */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbar for webkit browsers (Chrome Safari and Opera) */
+.forecast__scrollable__container::-webkit-scrollbar {
+  display: none;
+}
+
+.forecast__navigation {
+  position: absolute;
+  height: 100%;
+  width: 1vw;
+  z-index: 500;
+  display: flex;
+  transition: all .3s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.forecast__navigation.display {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* .forecast__navigation {
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+
+.forecast__navigation:hover {
+  opacity: 1;
+  visibility: visible;
+} */
+
+.forecast__navigation--left {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+.forecast__navigation--right {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  flex-direction: row-reverse;
+}

@@ -1,0 +1,32 @@
+{
+  "accept": "Accept",
+  "cancel": "Cancel",
+  "yes":"Yes", 
+  "no":"No", 
+  "open": "Open",
+  "close": "Close",
+  "delete": "Delete",
+  "about": "About",
+  "seeMore": "See more",
+  "print": "Print",
+  "defaultSelectValue": "Select an option",
+  "coordinates": {
+    "latitude": "Latitude",
+    "longitude": "Longitude"
+  },
+  "continue":"Continue",
+  "back":"Back",
+  "save":"Save",
+  "errorMessage":"Please fill out all the fields before continuing.",
+  "error":"An error has occurred, please try again later.",
+  "successMessage":"Saved Succefully.",
+  "updatedMessage":"Updated Succefully.",
+  "form":{
+    "save":"Save"
+  },
+  "year":"year",
+  "completed":"Completed",
+  "fieldRequired":"Field required",
+  "positiveNumberRequired": "Valid number required",
+  "details": "Details"
+}

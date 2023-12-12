@@ -1,0 +1,1 @@
+export { Soil_Regeneration as default } from './page/Soil_Regeneration.jsx';

@@ -1,0 +1,48 @@
+{
+    "question": "Is the soil bare during the production cycle?",
+    "positiveAnswer": {
+        "title": "Warning!",
+        "body": "Bare soil is at risk of erosion. To protect the soil, you can apply vegetative cover by:",
+        "covercrops": {
+            "title": "Cover crops",
+            "body": "Cover crops are those that are carried out between two harvest crops. Initially, they were performed to 'cover' the soil in order to control erosion. Their inclusion contributes other environmental services such as: carbon sequestration, increased infiltration, nutrient recycling, weed control, and also the provision of fodder. For this reason, cover crops are currently known as 'service crops' (SC), they are mainly used in extensive productions and as management of the rows between fruit plantations."
+        },
+        "mulching": {
+            "title": "Mulching",
+            "body": "This is a layer of plant residues that are applied to the surface of the soil without being incorporated into it, primarily used in horticulture and fruit cultivation. The main reason for using mulches is to increase organic matter, thereby promoting crop productivity due to the control of weeds and soil temperature, and the reduction of water evaporation from the soil. This technique is mainly used in intensive productions such as horticultural and fruit crops."
+        },
+        "agroforestrySystems": {
+            "title": "Agroforestry systems",
+            "body": "Another way to keep the soil covered and protected from environmental factors is the implementation of agroforestry systems. In these systems, annual and fruit crops are cultivated with a tree layer that protects the soil from environmental factors, preventing erosion. By pruning, organic matter can be contributed to the agroecosystem. This type of production is primarily carried out in tropical regions."
+        }
+    },
+    "negativeAnswer": "Great!",
+    "coverManagementTemplate":{
+        "title":"Plan your next actions for land cover management",
+        "usePadding":"Use of padding",
+        "implementGreenFertilizers":"Implement green fertilizers",
+        "form":{
+            "material":"Material",
+            "datePlacement":"Date placement",
+            "quantityMaterial":"Quantity material",
+            "tasks":"Tasks to achieve goal",
+            "deadline":"Deadline for compliance",
+            "budget":"Budget",
+            "notes":"Notes",
+            "lot":"lot",
+            "species":"species",
+            "plantingDate":"Seedtime",
+            "harvestDate":"Harvest date",
+            "precedingCrop":"preceding crop",
+            "update":"Update",
+            "create":"Create",
+            "personInCharge":"Person in charge",
+            "currency":"Currency",
+            "goal": "Goal"
+        }
+
+    }
+     
+    
+
+}

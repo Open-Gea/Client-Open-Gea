@@ -1,0 +1,37 @@
+{
+    "title":"User Profile",
+    "titleCooperative":"Organization Profile",
+    "titlePhoto":"Profile Picture",
+    "tittleGalery":"Gallery",
+    "subtitlePhotos":"My Photos",
+    "buttons":{
+        "update":"Update",
+        "edit":"Edit photos/videos",
+        "save":"Save",
+        "add":"Add",
+        "change":"Change",
+        "choosePhoto":"Choose another photo"
+    },
+    "labels": {
+        "name":"Name",
+        "lastName":"Last Name",
+        "user":"User",
+        "phone":"Phone Number",
+        "description":"Description",
+        "country":"Country",
+        "email":"Email",
+        "helpProfile":"To change the profile photo, click on the photo located at the top of the form, change it and click the button below to save it."
+    },
+    "validations":{
+        "nameRequired":"Name is required",
+        "lastNameRequired":"Last name is required",
+        "validEmail":"Introduce a valid email",
+        "emailRequired":"Email is required",
+        "phoneNumbers":"Phone Number must only contain numbers",
+        "phoneNumberRequired":"Phone Number is required",
+        "errorData":"Error obtaining user data:",
+        "generalError":"An error has occurred, try again later",
+        "profileUpdated":"Profile Updated",
+        "introduceName":"Introduce a name"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Una solución integral para la Agricultura Regenerativa de",
+  "plan21": "Fundación Plan21",
+  "subtitle": "Una iniciativa del Programa de Agricultura Regenerativa de Plan21 con el apoyo del Tecnológico de Costa Rica que es parte de los proyectos apoyados por el Acelerador de Sostenibilidad de IBM.",
+  "carbonFootprintCard": {
+    "title": "Huella de Carbono",
+    "subtitle": "Nuestra plataforma provee una interfaz capaz de calcular la huella de carbono de tu producción.",
+    "label": "(VUELVE PRÓXIMAMENTE)"
+  },
+  "waterFootprintCard": {
+    "title": "Huella Hídrica",
+    "subtitle": "El agua es un recurso limitado, calcula el consumo de agua de tu producción para un mejor manejo."
+  },
+  "certificationCard": {
+    "title": "Certificación",
+    "subtitle": "¿Tienes alguna certificación ambiental? Puedes cargarla aquí para que los consumidores conozcan tu compromiso con el medio ambiente, mediante códigos QR. Si calculaste tus huellas, los consumidores podrán conocerlas."
+  },
+  "weatherCard": {
+    "title": "Clima",
+    "subtitle": "Gracias al apoyo del Acelerador de Sostenibilidad de IBM los productores tienen acceso a una variada cantidad de información provista por EIS, tales como pronósticos climáticos y necesidades de riego, entre otras."
+  }
+}

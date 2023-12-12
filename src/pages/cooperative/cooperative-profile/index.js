@@ -1,0 +1,1 @@
+export { CooperativeProfile as default } from './CooperativeProfile.jsx';

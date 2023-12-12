@@ -1,0 +1,45 @@
+{
+  "question": "¿El suelo se encuentra desnudo durante el ciclo productivo?",
+  "positiveAnswer": {
+      "title": "Cuidado!!",
+      "body": "El suelo desnudo corre riesgo de erosión, para proteger el suelo puedes aplicar cobertura vegetal mediante:",
+      "covercrops": {
+          "title": "Cultivo de servicios",
+          "body": " Los cultivos de servicio (CS) son aquellos que se realizan entre dos cultivos de cosecha. Inicialmente, se realizaban con el fin de “cubrir” el suelo con el objeto de controlar la erosión. La inclusión de los mismos contribuyen con otros servicios ambientales como: el secuestro de carbono, aumento de la infiltración, reciclaje de nutrientes, control de malezas y, además, la provisión de forraje. Por tal razón, actualmente se conoce a los cultivos de cobertura como “cultivos de servicio” (CS), se utilizan principalmente en producciones extensivas y como manejo de las entre filas de plantaciones frutales."
+      },
+      "mulching": {
+          "title": "Acolchado",
+          "body": "Manto de restos vegetales que son aplicados a la superficie del suelo sin ser incorporados al mismo, principalmente usados en horticultura y fruticultura. El motivo principal del uso de los acolchados es el aumento de la materia orgánica favoreciendo la productividad del cultivo debida al control de las malas hierbas y de la temperatura del suelo, y la disminución de la evaporación de agua del suelo. Esta técnica es utilizada principalmente en producciones intensivas cómo son producciones hortícolas y frutícolas."
+      },
+      "agroforestrySystems": {
+          "title": "Sistemas agroforestales",
+          "body": " Otra forma de mantener el suelo cubierto y protegido de los factores ambientales es implementaciones de sistemas agroforestales, en los cuales se realizan cultivos frutícolas y anuales, con un estrato arbóreo que protege al suelo de los factores ambientales previniendo la erosión. Mediante la realización de podas se puede aportar materia orgánica al agroecosistema. Este tipo de producciones se realizan principalmente en zonas tropicales."
+      }
+  },
+  "negativeAnswer": "Excelente noticia!",
+  "coverManagementTemplate":{
+    "title":"Planifica tus próximas acciones para el manejo de la cobertura del suelo",
+    "usePadding":"Uso de acolchados",
+    "implementGreenFertilizers":"Implementar abonos verdes",
+    "form":{
+        "material":"Material",
+        "datePlacement":"Fecha de siembra:",
+        "quantityMaterial":"Cantidad de material(m3)",
+        "tasks":"Tareas para cumplir objetivo",
+        "deadline":"Fecha límite",
+        "budget":"Presupuesto",
+        "notes":"Notas",
+        "lot":"Lote",
+        "species":"Especie",
+        "plantingDate":"Fecha de siembra",
+        "harvestDate":"Fecha de cosecha",
+        "precedingCrop":"Cultivo antecesor",
+        "update":"Actualizar",
+        "create":"Crear",
+        "personInCharge":"Persona a cargo",
+        "currency":"Moneda",
+        "goal": "Objetivo"
+    }
+
+}
+}

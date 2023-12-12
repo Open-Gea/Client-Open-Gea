@@ -1,0 +1,30 @@
+{
+    "fieldsPlaceHolders":{
+        "name":"Nombre",
+        "lastName":"Apellido",
+        "description":"Descripción",
+        "userName":"Nombre de Usuario",
+        "phoneNumber":"Teléfono",
+        "country":"País",
+        "email":"Email",
+        "profilePicture":"Foto de perfil",
+        "password":"Contraseña"
+    },
+    "fieldsMessages":{
+        "name":"Nombre requerido",
+        "lastName":"Apellido requerido",
+        "emailValid":"Introduce un email válido",
+        "emailRequired":"Email es requerido",
+        "passwordValid1":"Contraseña muy corta, al menos 8 caracteres",
+        "passwordValid2":"La contraseña debe contener al menos un número",
+        "passwordValid3":"La contraseña debe contener al menos una letra minúscula",
+        "passwordValid4":"La contraseña debe contener al menos una letra mayúscula",
+        "passwordValid5":"La contraseña tiene espacios",
+        "passwordValid6":"La contraseña no debe incluir espacios",
+        "passwordValid7":"La contraseña es requerida",
+        "phoneValid":"Teléfono debe contener sólo números",
+        "phoneRequired":"Teléfono es requerido",
+        "country":"País es requerido",
+        "userRequired":"Usuario es requerido"
+    }
+}

@@ -1,0 +1,241 @@
+@import "../css/const.css";
+
+#boxSensOne {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  /* padding: 121.846px 43.5165px 124.022px 130.549px; */
+  padding: 10.8% 3.85% 10.99% 11.57%;
+  gap: 1.33%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background: var(--COLOR_BACKGROUND_BODY_98);
+  mix-blend-mode: normal;
+  border-radius: 16px;
+}
+
+#boxSensOne video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  opacity: 0.8;
+  border-radius: 16px;
+  z-index: 1;
+}
+
+#overLaySens {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 54px;
+  /* background-color: azure; */
+  width: 100%;
+  height: 100%;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  z-index: 2;
+}
+
+#overLaySens .TextSens1 {
+  /* Text */
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  /* gap: 88px; */
+  gap: 11.11%;
+  /* background-color: aqua; */
+  width: 100%;
+  height: 80.79%;
+  filter: drop-shadow(-3.90508px 4.88136px 3.90508px rgba(0, 0, 0, 0.8));
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#overLaySens .ActionSens1 {
+  /* Accion */
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px 0px 0px 80px;
+  /* gap: 104px; */
+  gap: 13.13%;
+  /* background-color: black; */
+  width: 100%;
+  height: 8%;
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+#overLaySens .Preg {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Preg .Preg1 {
+  font-family: var(--TITLE);
+  font-style: normal;
+  font-weight: 900;
+  font-size: 65.9747px;
+  line-height: 75px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+  color: var(--COLOR_TEXTO_PRIMARIO_95);
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Preg .Preg2 {
+  font-family: var(--TITLE);
+  font-style: normal;
+  font-weight: 900;
+  font-size: 84.8246px;
+  line-height: 75px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+  color: var(--COLOR_TEXTO_PRIMARIO_95);
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.TextSens1 .TextSens1a {
+  font-family: var(--TITLE);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33.9298px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  color: var(--COLOR_TEXTO_PRIMARIO_95);
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+#boxSensTwo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  /* padding: 0px 64px; */
+  padding: 0% 5.66% 0% 5.67%;
+  gap: 0.5%;
+
+  width: 100%;
+  height: 100%;
+  background: var(--COLOR_BACKGROUND_BODY_98);
+  border-radius: 16px;
+}
+
+.ActionSens2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* padding: 0px 128px 0px 0px; */
+  padding: 0.70% 11.32% 0% 0%;
+  gap: 1vh;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+#overLaySensTwo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  /* gap: 36px; */
+  gap: 4vh;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#overLaySensTwo h2 {
+  font-family: var(--TITLE);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  /* Texto/Primario */
+  /* color: #06130C; */
+  color: var(--COLOR_TEXTO_PRIMARIO);
+}
+
+.FormTextSens {
+  /* width: 1036px; */
+  width: 71.94vw;
+  /* height: 173.78px; */
+  /* height: 36%; */
+  /* Inside auto layout */
+  background: var(--COLOR_BACKGROUND_BODY_95);
+  border-radius: 8px;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.FormTextEditSens {
+  /* Background/Secund 95 */
+  /* background: #ECF8F8; */
+  /* background: var(--COLOR_BACKGROUND_SECUND_95); */
+  /* border-radius: 4.88136px; */
+  /* padding: 0.7% 0.7% 0.7% 0.7%; */
+  margin: 0.7% 0.7% 0.7% 0.7%;
+  /* overflow-y: scroll; */
+}
+
+.FormTextSens h4 {
+  /* Text/Desk/H4 */
+
+  font-family: var(--TEXT);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+  text-align: center;
+  /* Texto/Secundario 05 */
+  color: var(--COLOR_TEXTO_SECUNDARIO_05);
+  text-shadow: 3.90508px 3.90508px 5.85763px #F7FCFA;
+}
+
+.FormTextEditSens textarea {
+  background: var(--COLOR_BACKGROUND_SECUND_95);
+  border-radius: 4.88136px;
+  border: 1px solid var(--COLOR_PRIMARIO);
+  padding: 0.7% 0.7% 0.7% 0.7%;
+  width: 100%;
+  height: 10vh;
+  font-family: var(--TEXT);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: var(--COLOR_TEXTO_SECUNDARIO_05);
+}

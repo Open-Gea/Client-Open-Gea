@@ -1,0 +1,22 @@
+{
+  "title": "An integral solution for Regenerative Agriculture by",
+  "plan21": "Plan21 Foundation",
+  "subtitle": "An initiative from Plan 21's Regenerative Agriculture with support from the Costa Rican Institute of Technology, part of IBM's Sustainability Accelerator program.",
+  "carbonFootprintCard": {
+    "title": "Carbon Footprint",
+    "subtitle": "Our platform provides a feature to calculate your farm's carbon footprint",
+    "label": "(AVAILABLE SOON)"
+  },
+  "waterFootprintCard": {
+    "title": "Water Footprint",
+    "subtitle": "Water is a limited resource, calculate your farm's water consumption for a better management."
+  },
+  "certificationCard": {
+    "title": "Certification",
+    "subtitle": "Do you have any ambiental certification? You can upload them here so that your customers know your commitment to the environment via QR codes. If you have calculated your footprints, consumers will be able to read them."
+  },
+  "weatherCard": {
+    "title": "Weather",
+    "subtitle": "Thanks to IBM's Sustainability Accelerator program, farmers have access to a variety of information provided by EIS, like weather forecast and watering needs, among others."
+  }
+}

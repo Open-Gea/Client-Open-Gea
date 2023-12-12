@@ -1,0 +1,37 @@
+{
+    "title": "Mis Miembros",
+    "title2": "Registrar miembro en mi organización",
+    "title3": "Detalles del Usuario",
+    "navigation":{
+      "home":"Inicio",
+      "membersManagement":"Gestion de Miembros",
+      "myMembers":"Mis Miembros"
+    },
+    "messages":{
+      "confirmDelete":"Confirmar Eliminación",
+      "confirmRemove":"¿Esta seguro de que desea remover el usuario ",
+      "confirmRemove2":" de la organización?",
+      "allRequired":"Todos los campos son obligatorios",
+      "notFound":"No encontrado",
+      "noCoincidence":"Ninguna coincidencia encontrada para",
+      "pleaseEnterAWord":"Por favor introduce una palabra",
+      "emptyMembers":"Porfavor presione en 'Registrar Miembro' para agregar miembros a su organizacion o utilice alguna de las otras opciones disponibles"
+    },
+    "buttons":{
+      "registerMember":"Registrar Miembro",
+      "searchMember":"Buscar miembro por nombre",
+      "viewDetails":"Ver Detalles",
+      "delete":"Borrar"
+    },
+    "fields":{
+      "name":"Nombre",
+      "country":"País",
+      "email":"Correo",
+      "phone":"Teléfono",
+      "userName":"Nombre de Usuario",
+      "enteredTheSystem":"¿Ya ingresó al Sistema?",
+      "termsPostive":"Si, ya acepto terminos y condiciones",
+      "termsNegative":"No, no ha aceptado terminos y condiciones"
+    }
+}
+  

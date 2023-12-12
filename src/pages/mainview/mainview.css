@@ -1,0 +1,14 @@
+.toolbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-top: 0px;
+  height: 100px;
+}
+.toolbar button:first-child {
+  margin-right: 0px;
+}
+
+.toolbar button:last-child {
+  margin-left: 0px;
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Mis fincas",
+  "title2": "Administración de Fincas",
+  "noCertificateUploaded": "No hay certificado cargado",
+  "certificateDescription": "Aquí se pueden cargar certificados de agricultura sostenible y/o buenas prácticas de su finca",
+  "farmDetails": {
+    "title": "Ubicación de la finca",
+    "farmLabel": "Finca",
+    "ownerLabel": "Propietario",
+    "countryLabel": "País"
+  },
+  "inputs": {
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "country": "País",
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "addFarm": "Añadir Finca",
+    "findFarm": "Buscar finca",
+    "saveNewFarm": "Guardar",
+    "saveEditFarm": "Guardar Cambios",
+    "filterTooltip": "Filtrar",
+    "saveCertificate": "Subir Certificado",
+    "home":"Inicio",
+    "myFarms":"Mis Fincas",
+    "farmsInformation":"Informacion de Fincas",
+    "surface": "Superficie (Ha)",
+    "owner": "Propietario"
+  },
+  "menuPopover": {
+    "title": "Editar Finca",
+    "edit": "Editar",
+    "delete": "Borrar"
+  },
+  "validations": {
+    "requiredName": "Introduce un nombre",
+    "requiredPhone": "Introduce un número de teléfono",
+    "requiredCountry": "Selecciona un país",
+    "length": "Debe tener al menos {{val}} caracteres",
+    "noLocationSummary": "Reconocimiento de ubicación bloqueado",
+    "noLocationPermission": "Debe introducir una latitud y una longitud o permitir el acceso a su ubicación para determinar la ubicación de su finca",
+    "chooseOwner":"Porfavor asigne un propietario",
+    "chooseOwnerSecurity":"Reseleccione el propietario por razones de seguridad",
+    "ownerRequired":"El propietario es requerido"
+  },
+  "farmTable": {
+    "nameHeader": "Nombre",
+    "phoneHeader": "Teléfono",
+    "ownerHeader": "Dueño",
+    "countryHeader": "País",
+    "locationHeader": "Ubicación",
+    "certificateHeader": "Certificación",
+    "sortAsc": "ordenado asc.",
+    "sortDesc": "ordenado desc.",
+    "openCertificates": "Ver Certificados",
+    "more": "Detalles"
+  },
+  "certificateTable": {
+    "title": "CERTIFICADOS",
+    "nameHeader": "NOMBRE",
+    "uploadedDateHeader": "Fecha de carga"
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "title": "My Members",
+    "title2": "Register member in my organization",
+    "title3": "User Details",
+    "navigation":{
+      "home":"Home",
+      "membersManagement":"Members Management",
+      "myMembers":"My Members"
+    },
+    "messages":{
+      "confirmDelete":"Confirm Deletion",
+      "confirmRemove":"Are you sure you want to remove the user ",
+      "confirmRemove2":" from the organization?",
+      "allRequired":"All the fields are required",
+      "notFound":"Not found",
+      "noCoincidence":"No coincidence found for",
+      "pleaseEnterAWord":"Please enter a word",
+      "emptyMembers":"Please click on 'Register Member' to add members to your organization or use one of the other options available"
+    },
+    "buttons":{
+      "registerMember":"Register Member",
+      "searchMember":"Search member by name",
+      "viewDetails":"View Details",
+      "delete":"Delete"
+    },
+    "fields":{
+      "name":"Name",
+      "country":"Country",
+      "email":"Emnail",
+      "phone":"Phone Number",
+      "userName":"Username",
+      "enteredTheSystem":"Already logged into the System?",
+      "termsPostive":"Yes, the terms and conditions have been accepted",
+      "termsNegative":"No, the terms and conditions have not been accepted."
+    }
+}
+  

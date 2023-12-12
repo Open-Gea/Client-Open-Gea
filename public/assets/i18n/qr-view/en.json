@@ -1,0 +1,20 @@
+{
+    "title": "My Profile",
+    "farmInfo": "Farm Info",
+    "owner": "Owner",
+    "surface": "Surface",
+    "certificates": "Certificates",
+    "year": "Year",
+    "waterF": "Water Footprint",
+    "product": "Product",
+    "wfLabels": {
+        "seedtime": "Seedtime",
+        "harvest": "Harvest Date",
+        "tons": "Tons Harvested",
+        "ha": "Hectares",
+        "blue": "Blue",
+        "green": "Green",
+        "total": "Total"
+    },
+    "galery": "Galery"
+}

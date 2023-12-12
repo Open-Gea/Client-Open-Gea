@@ -1,0 +1,30 @@
+{
+    "fieldsPlaceHolders":{
+        "name":"Name",
+        "lastName":"Last Name",
+        "description":"Description",
+        "userName":"Username",
+        "phoneNumber":"Phone Number",
+        "country":"Country",
+        "email":"Email",
+        "profilePicture":"Profile Picture",
+        "password":"Password"
+    },
+    "fieldsMessages":{
+        "name":"Name is required",
+        "lastName":"Last name is required",
+        "emailValid":"Introduce a valid email address",
+        "emailRequired":"Email is required",
+        "passwordValid1":"Password is too short, it must be at least 8 characters long",
+        "passwordValid2":"The password must contain at least one number",
+        "passwordValid3":"The password must contain at least one lowercase letter",
+        "passwordValid4":"The password must contain at least one capital letter",
+        "passwordValid5":"The password has spaces",
+        "passwordValid6":"The phone must contain only numbers",
+        "passwordValid7":"The password is required",
+        "phoneValid":"Phone number must only contain numbers",
+        "phoneRequired":"Phone number is required",
+        "country":"Country is required",
+        "userRequired":"Username is required"
+    }
+}

@@ -1,0 +1,1 @@
+export { MyCooperative as default } from './MyCooperative.jsx';

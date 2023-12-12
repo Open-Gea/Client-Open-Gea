@@ -1,0 +1,55 @@
+{
+  "title": "Administration",
+  "title2": "Users Administration",
+  "farmDetails": {
+    "title": "Farm location",
+    "farmLabel": "Farm",
+    "ownerLabel": "Owner",
+    "countryLabel": "Country"
+  },
+  "inputs": {
+    "name": "Name",
+    "phone": "Phone",
+    "country": "Country",
+    "findUser": "Find User",
+    "saveNewFarm": "Save",
+    "saveEditFarm": "Save Changes",
+    "filterTooltip": "Filter",
+    "home":"Home",
+    "ACTIVE":"Active",
+    "DISABLED":"Disabled",
+    "remove":"Remove",
+    "give":"Give",
+    "state":"State",
+    "allUsers":"All users",
+    "notFoundUsers":"No users found",
+    "notFoundUsers2":"No users found with the state selected",
+    "productor":"Farmers",
+    "organization":"Organizations",
+    "userType":"User Type"
+  },
+  "menuPopover": {
+    "title": "Edit Finca",
+    "edit": "Edit",
+    "delete": "Delete",
+    "removeAccess": "  Remove Access",
+    "addAccess": "Give Access",
+    "confirmAccessRemovalT": "Confirm Access Removal",
+    "confirmAccessRemoval1":"Are you sure you want to remove the access to the user ",
+    "confirmAccessRemoval2":"? After removing the acces the user won't be able to access YvY",
+    "confirmAccessT": "Confirm Access",
+    "confirmAccess1":"Are you sure you want to give access to the user ",
+    "confirmAccess2":"? After giving the access the user will be able to access YvY"
+  },
+  "usersTable": {
+    "nameHeader": "Name",
+    "statusHeader": "Access",
+    "countryHeader": "Country",
+    "emailHeader": "Email",
+    "phoneHeader": "Phone Number",
+    "sortAsc": "Asc Order",
+    "sortDesc": "Desc Order",
+    "actions": "Actions",
+    "registrationDate":"Registration Date"
+  }
+}

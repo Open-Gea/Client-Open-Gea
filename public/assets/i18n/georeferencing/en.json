@@ -1,0 +1,42 @@
+{
+  "titleG":"Georeferencing",
+  "useGuide":"Use Guide",
+  "georeferencingMessage": "In the map you can visualize all the farms associated with ",
+  "useGuideMessages": {
+    "general":"Explanation about map use and search with icons:",
+    "mapIcon":"Shows the location of the farm on the map, clicking on the icon will focus on the location and double-clicking will zoom out the location. Also, hovering the mouse over the icon will show detailed information about the farm.",
+    "detailsIcon":"It is located in the upper right corner of the map, clicking on it shows the list of farms, where we can remove or add them as required on the map.",
+    "filterIcon":"It is located next to the search bar, which allows us to filter the farms by country."
+  },
+  "farmDetails": {
+    "title": "Farm location",
+    "farmLabel": "Farm",
+    "ownerLabel": "Owner",
+    "countryLabel": "Country"
+  },
+  "inputs": {
+    "name": "Name",
+    "country": "Country",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "findFarm": "Find farm",
+    "filterTooltip": "Filter",
+    "home":"Home",
+    "myFarms":"My Farms",
+    "farmsInformation":"Farms Information",
+    "openGuide":"Open Guide",
+    "icon":"Icon",
+    "use":"Use"
+  },
+  "farmTable": {
+    "nameHeader": "Name",
+    "phoneHeader": "Phone",
+    "ownerHeader": "Owner",
+    "countryHeader": "Country",
+    "locationHeader": "Location",
+    "certificateHeader": "Certificate",
+    "sortAsc": "sorted ascending",
+    "sortDesc": "sorted descending",
+    "openCertificates": "Open Certificates"
+  }
+}

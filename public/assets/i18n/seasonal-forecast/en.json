@@ -1,0 +1,69 @@
+{
+  "title": "Seasonal Forecast",
+  "dateLabel": "Date and Time",
+  "submitLabel": "Show",
+  "farmInput": {
+    "label": "Farm",
+    "labelHelp": "Farm to calculate"
+  },
+  "forecastTypeInput": {
+    "label": "Forecast Type",
+    "labelHelp": "Forecast type to choose",
+    "temperatureLabel": "Temperature Forecast",
+    "precipitationLabel": "Precipitation Forecast"
+  },
+  "timeRangeInput": {
+    "label": "Time Range",
+    "labelHelp": "Time range",
+    "quarterlyLabel": "Quarterly",
+    "monthlyLabel": "Monthly",
+    "weeklyLabel": "Weekly"
+  },
+  "dateInput": {
+    "label": "Date(s)",
+    "labelHelp": "Date to calculate"
+  },
+  "temperatureAdvice": {
+    "lower": "Take into account these values to plan and/or optimize the selection of crops and crop varieties (more resistant to temperature), cultural tasks, sowing or implantation date, forecast of harvest times or variable blooming according to these conditions.",
+    "higher": "Take into account these values to plan and/or optimize the selection of crops and crop varieties (more resistant to temperature), cultural work, sowing or planting date, forecast of harvesting times or variable blooming according to these conditions and the possibility of needing irrigation.",
+    "equal": "Temperatures are the same as the average."
+  },
+  "precipitationAdvice": {
+    "lower": "Take into account these values to plan and/or optimize the selection of crops and crop varieties (more resistant to lack of water), cultural works, sowing or planting date, forecast of harvest times or variable blooms according to these conditions and the possibility of needing extra irrigation.",
+    "higher": "Take into account these values to plan and/or optimize the selection of crops and crop varieties (more resistant to water), cultural tasks, sowing or planting date, harvest time forecast or variable blooms according to these conditions.",
+    "equal": "Precipitation is the same as the average."
+  },
+  "temperatureForecastSummary": {
+    "colder": "Colder than usual",
+    "warmer": "Warmer than usual"
+  },
+  "precipitationForecastSummary": {
+    "less": "Less precipitation than usual",
+    "more": "More precipitation than usual"
+  },
+  "forecastDescriptionString": {
+    "precipitation": "precipitation",
+    "temperature": "temperature",
+    "quarterly": "Quarterly",
+    "monthly": "Monthly",
+    "weekly": "Weekly",
+    "higherValue": "will be higher",
+    "lowerValue": "will be lower",
+    "equalValue": "will be the same",
+    "fullString": "{{timeRange}} {{forecastType}} {{variation}} compared to average records for this location."
+  },
+  "alerts": {
+    "hasErrorTitle": "Error",
+    "hasErrorDescription": "An error has ocurred with the requested information. Please try again later."
+  },
+  "moduleHelp": {
+    "aboutTitle": "Description",
+    "aboutParagraphs": [
+      "The purpose of this functionality is to identify the deviation of rainfall and temperatures compared to historical records for the precise coordinates of the selected farm. It provide san overview of the increase or decrease of these variables over a range of time; weekly, monthly or quarterly. The user must select the farm, the variable to compare (precipitation or temperature), and the time range of the forecast. The user must also select a date for that range. Once all fields are selected, the application will return a corresponding analysis."
+    ],
+    "readMoreTitle": "Read More",
+    "readMoreParagraphs": [
+      "The information provided by this application comes mainly from IBM Intelligence Suite, a program that provides weather information to anticipate disruptive environmental conditions, proactively manage risk and develop more sustainable operations.The IBM Intelligence Suite technology is obtained through techno-spatial tools. IBM Environmental Intelligence Suite is an AI-powered SaaS solution that provides timely, fact-based actionable intelligence to proactively manage the economic impact of severe weather events and climate change, based on the world's most accurate weather data."
+    ]
+  }
+}

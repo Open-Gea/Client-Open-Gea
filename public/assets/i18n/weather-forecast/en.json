@@ -1,0 +1,60 @@
+{
+  "title": "Weather Forecast",
+  "dateLabel": "Date and Time",
+  "farmLabel": "Farm",
+  "pickFarmLabel": "Choose a farm",
+  "selectedHour": "Selected hour",
+  "nextDaysTitle": "Next 15 days",
+  "precipitationTypes": {
+    "rain": "Rain",
+    "snow": "Snow",
+    "generic": "Precipitation",
+    "unknown": "Unknown"
+  },
+  "forecastSummary": {
+    "status": "Status",
+    "uvIndex": "UV Index",
+    "cloudCover": "Cloud Cover"
+  },
+  "forecastTemperature": {
+    "temperature": "Temperature",
+    "temperatureFeelsLike": "Feels Like"
+  },
+  "forecastRain": {
+    "precipChance": "Chance",
+    "pp": "Pp"
+  },
+  "forecastHumidity": {
+    "relativeHumidity": "Humidity",
+    "pressureMeanSeaLevel": "Positive Pressure"
+  },
+  "forecastWind": {
+    "windSpeed": "Speed",
+    "windDirectionCardinal": "Direction"
+  },
+  "validations": {
+    "mustBeTopOfHour": "Time must be at the top of the hour",
+    "minDate": "Date must be higher than selected",
+    "maxDate": "Date must be lower than selected"
+  },
+  "alerts": {
+    "noAvailableFarmsTitle": "No available farms",
+    "noAvailableFarmsDescription": "At least a farm is required to use this module. Please add a farm.",
+    "selectDateTimeTitle": "Choose a date and time.",
+    "selectDateTimeDescription": "Please choose a date and time.",
+    "forecastNotAvailableTitle": "Forecast not available.",
+    "forecastNotAvailableDescription": "Forecast is not available for selected date and time. Please try again with another date and time.",
+    "nextDaysForecastNotAvailableTitle": "Forecast not available.",
+    "nextDaysForecastNotAvailableDescription": "Biweekly forecast is not available for selected date and time. Please try again with another date and time."
+  },
+  "moduleHelp": {
+    "aboutTitle": "Description",
+    "aboutParagraphs": [
+      "This functionality provides values for precipitation, temperature, wind chill, wind speed and direction, relative humidity and relative pressure for a given location at a user-defined time and date. Dates up to 15 days in the future can be selected starting from the current date. The functionality also provides a summary of maximum and minimum temperatures and precipitation for the next 15 days from the current date."
+    ],
+    "readMoreTitle": "Read More",
+    "readMoreParagraphs": [
+      "The information provided by this application comes mainly from IBM Environmental Intelligence Suite, a program that provides weather information to anticipate disruptive environmental conditions, proactively manage risk and develop more sustainable operations. The IBM Environmental Intelligence Suite technology is obtained through techno-spatial tools. IBM Environmental Intelligence Suite is an AI-powered SaaS solution that provides timely, fact-based actionable intelligence to proactively manage the economic impact of severe weather events and climate change, based on the world's most accurate weather data."
+    ]
+  }
+}

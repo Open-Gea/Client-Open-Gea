@@ -1,0 +1,24 @@
+{
+    "titleWeb":"Self-Diagnosis",
+    "title": "Sustainability Self Assessment",
+    "title2":"Criterias of Sustainability",
+    "chooseOption": "Choose an Option",
+    "buttons":{
+        "mag": "Tu MoDeLo (Fundecooperación - MAG)",
+        "smartPlanet": "Smart Planet"
+    },
+    "titles": {
+        "mag": "Self-Diagnosis of Tu MoDeLo (Fundecooperación - MAG)",
+        "smartPlanet": "Self-Diagnosis of Smart Planet"
+    },
+    "actionMessages":{
+        "selectFarm": "Choose a Farm",
+        "farmNotSelected": "You must select a farm to begin",
+        "notSafe": "There's changes without saving. Save before you change a Farm or exit"
+    },
+    "yes": "Yes",
+    "no": "No"
+    
+    
+    
+}

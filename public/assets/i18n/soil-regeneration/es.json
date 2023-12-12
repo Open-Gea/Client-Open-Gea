@@ -1,0 +1,422 @@
+{
+    "title": "Plan de Regeneración de Suelo",
+    "titlePage": "Plan Suelo",
+    "initialQuestion1": "¿POR QUÉ EL SUELO ES",
+    "initialQuestion2": "ASOMBROSO?",
+    "initialMessage": [
+        "El suelo es una de las más subestimadas y poco comprendidas,",
+        "maravillas en nuestro frágil planeta.",
+        "Conocer su valor y sus cuidados es de vitál importancia."
+    ],
+    "soilQuestion3": "¿Por qué el suelo es asombroso?",
+    "soilQuestion4": "¿Puedes con tus palabras hacer un resumen del video?",
+    "soilQuestion5": "¿Quisieras responder una pregunta para afianzar conocimientos?",
+    "soilVideo": "https://www.youtube.com/embed/tZKvhRmGxxo?",
+    "videoDescription": "El video habla sobre las increíbles características y beneficios del suelo. Se menciona cómo el suelo es esencial para la vida ya que es el hogar de millones de especies y es el lugar donde se desarrollan las plantas que producen nuestra comida. Además, el suelo ayuda a filtrar y purificar el agua, almacena carbono y ayuda a regular el clima. También se menciona la importancia de cuidar y proteger el suelo para garantizar su salud y productividad a largo plazo. En resumen, el video destaca la importancia del suelo como un recurso vital y cómo su conservación es esencial para nuestra supervivencia...",
+    "buttons": {
+        "continue": "CONTINUAR",
+        "watch": "VER VIDEO",
+        "question": "PREGUNTA",
+        "next": "SIGUIENTE",
+        "yes": "SI",
+        "no": "NO",
+        "tasks": "TAREAS",
+        "back": "ATRAS",
+        "start": "INICIO"
+    },
+    "messagesWithTitles": {
+        "carboonTitle": "Captura de Carbono",
+        "carboonMessage": "El suelo tiene el potencial de mitigar el cambio climático mediante la captura de carbono y almacenarlo como materia orgánica estable. Este fenómeno se conoce como secuestro de carbono, para lograr que el suelo cumpla esta función se requiere mejorar las prácticas de manejo que le permitan almacenar más carbono",
+        "soilVocationTitle": "¿Conoces la vocación del suelo?",
+        "soilVocationRequest": "Por favor seleccione una opción",
+        "soilVocationMessage": "Cada suelo tiene una vocación, que está determinada por los materiales que lo originaron, el clima, el tiempo, la vegetación, entre otros factores.",
+        "soilVocationMessage2": "Conocer la vocación del suelo es el primer paso para poder cuidarlo entender sus limitaciones y los alcances del mismo. Principalmente se distinguen las siguientes vocaciones:",
+        "soilVocationMessage3": "Si no conoces la vocación de tu suelo y notas que tu producción no está teniendo éxito conoce sus características y sus alcances, puedes encontrar más sobre tu suelo según tu zona aquí:",
+        "soilIndicatorMessage": "La agricultura es una actividad esencial para el sustento humano, pero también es importante asegurar que se estén utilizando prácticas sostenibles y saludables para el suelo. Conocer el estado del suelo y de las prácticas agrícolas a través de indicadores físicos es esencial para detectar problemas productivos y tomar medidas para mejorar la productividad y la sostenibilidad. En este texto, se habla de la importancia de tener conocimiento sobre el estado del suelo y las prácticas agrícolas a través de indicadores físicos para poder detectar problemas productivos y tomar medidas para mejorar la productividad y la sostenibilidad.",
+        "soilVocationSelect": "Seleccione una opción de acuerdo al cuadro"
+    },
+    "soilVocations": {
+        "agricole": "AGRICOLA",
+        "livestock": "GANADERIA",
+        "agroforestry": "AGROFORESTAL",
+        "forestry": "FORESTAL",
+        "conservation": "CONSERVACION"
+    },
+    "carbonQuestionAnswers1": {
+        "question": "¿Qué es el secuestro de carbono?",
+        "answer1": "El carbono es capturado y almacenado en el suelo.Esto puede ocurrir de manera natural a través de la actividad biológica del suelo.",
+        "answer2": "El proceso de combustión del carbono en el suelo para liberar energía.",
+        "answer3": "Implica enterrar grandes cantidades de carbono debajo de la tierra para esconderlo de la atmósfera.",
+        "warningMessage": "El carbono es capturado y almacenado en el suelo."
+    },
+    "physicalSoilIndicators": "Indicadores Físicos del Suelo",
+    "physicalSoilQuestions": {
+        "crustsQuestion": "¿Se observan costras en la superficie?",
+        "crustsAnswer": "Las costras sobre el suelo son un indicador de degradación física,es probable que tu suelo haya pasado por períodos sin cobertura vegetal viva o muerta, expuesto a los factores ambientales que generan desecación, compactación estas son señales que pueden estar poniendo en riesgo la fertilidad del suelo a largo plazo. El encostrado es un problema común en suelos con poca aglomeración. Resulta principalmente del impacto de las gotas de lluvia, causando que las partículas de arcilla de la superficie se dispersen y cierren los poros inmediatamente bajo la superficie. Las lluvias que siguen seguramente se escurrirán en vez de absorberse en el suelo.",
+        "saltsQuestion": "¿Se observan sales en la superficie?",
+        "saltsAnswer": "La presencia de sales son comunes en suelos de zonas áridas o suelos salinos, si no estás en este tipo de ambientes y se presentan sales en superficie, controla la calidad del agua de riego ya que pueden estarse incorporando sales a través del agua, a su vez en caso de que se trate de aguas salinas las cantidades de agua aportada deberán aumentar para evitar la salinización del suelo, es común la presencia de sales en superficie en cultivos bajo cubierta donde la lluvia no llega al suelo.",
+        "waterInfiltrationQuestion": "¿Tienes problemas de infiltración de agua que no tenías en el pasado?",
+        "waterInfiltrationAnswer": "La capacidad de infiltración de agua en el suelo se asocia tanto a su textura cómo su estructura. La textura hace referencia a la cantidad de limo, arcilla y arena que posee un suelo, esta condición es genética y no la podemos cambiar con el manejo. La estructura de un suelo es de carácter cualitativo y se asocia al ordenamiento espacial de las partículas, su capacidad de mantenerse en un determinado arreglo espacial, a su vez la estructura determina los espacios de aire en el suelo, es decir su porosidad y su capacidad para proveer un ambiente adecuado para el crecimiento de las plantas. Los problemas de infiltración muchas veces se producen por la pérdida de la estructura del suelo, la cual está asociada a labranzas agresivas, a la exposición del suelo a factores ambientales cómo lluvias, viento, a la pérdida de Materia orgánica y a la pérdida de actividad biológica.",
+        "aggregatesQuestion": "¿Se visualizan Agregados?",
+        "aggregatesAnswer1": "Los agregados del suelo son agrupaciones de partículas, forman parte de la estructura del suelo, se ven fácilmente cerca de las raíces de las plantas , brindan estabilidad estructural a los suelos ya que generan espacios porosos, por donde fluye el agua y el aire que precisan las plantas para vivir. La presencia de agregados del suelo es un buen indicador de la salud del suelo. Es deseable que en los primeros 30cm contar con una estructura migajosa, porosa que permita una buena infiltración y circulación del aire.",
+        "aggregatesAnswer2": "Lo opuesto de agregación es dispersión. En un suelo disperso, cada partícula individual de tierra es libre de volar por el viento o ser lavada por una corriente de agua. Si no se visualizan fácilmente es posible que nuestro suelo carezca de estructura adecuada para el desarrollo de las plantas, lo cual trae aparejado problemas tanto de infiltración cómo de circulación de aire.",
+        "evaluateSoilQuestion": "¿Desea evaluar la fertilidad de tu suelo a través  cuestionario?",
+        "evaluateSoilAnswer": "En el suelo se presentan una serie de factores que determinar su nivel de fertilidad, es por ello que resulta de suma importancia su conocimiento",
+        "cropsLocationQuestion": "¿Posee cultivos ubicados en pendientes mayores a 1%? Describa",
+        "cropsAnswer": "Practicar agricultura en pendientes pronunciadas requiere de medidas preventivas para evitar la erosión del suelo debido al arrastre de materia orgánica.Si realizas agricultura sobre pendientes pronunciadas, asegúrate de prevenir la erosión mediante la implementación de cultivos en terrazas, curvas a nivel.",
+        "additionalQuestion": {
+            "question": "¿Tiene alguna estrategia para controlar la erosión en las pendientes? ",
+            "yesResponse": "Excelente! Estarás previniendo la erosión del suelo por arrastres de materiales.",
+            "noResponse": "Practicar agricultura en pendientes pronunciadas requiere de medidas preventivas para evitar la erosión del suelo debido al arrastre de materia orgánica."
+        }
+    },
+    "letsWork": "Manos a la obra",
+    "letsWorkInformation": "Sugerencias para tratar el suelo según la problemática:",
+    "suggestions": {
+        "infiltration": "INFILTRACION",
+        "crusts": "COSTRAS",
+        "salts": "SALES",
+        "fertility": "FERTILIDAD",
+        "aggregates": "AGREGADOS",
+        "pendings": "PENDIENTE"
+    },
+    "suggestionsMessage1": "Revisa tus prácticas de manejo asegúrate de:",
+    "suggestionsMessage2": "Tareas de campo para realizar:",
+    "tasksTable": {
+        "date": "FECHA",
+        "task": "TAREA",
+        "completed": "COMPLETADO",
+        "delete": "ELIMINAR",
+        "tasksToDo": "Tareas de campo para realizar"
+    },
+
+    "coverManagement":{
+        "question": "¿El suelo se encuentra desnudo durante el ciclo productivo?",
+        "positiveAnswer": {
+            "title": "Cuidado!!",
+            "body": "El suelo desnudo corre riesgo de erosión, para proteger el suelo puedes aplicar cobertura vegetal mediante:",
+            "covercrops": {
+                "title": "Cultivo de servicios",
+                "body": " Los cultivos de servicio (CS) son aquellos que se realizan entre dos cultivos de cosecha. Inicialmente, se realizaban con el fin de “cubrir” el suelo con el objeto de controlar la erosión. La inclusión de los mismos contribuyen con otros servicios ambientales como: el secuestro de carbono, aumento de la infiltración, reciclaje de nutrientes, control de malezas y, además, la provisión de forraje. Por tal razón, actualmente se conoce a los cultivos de cobertura como “cultivos de servicio” (CS), se utilizan principalmente en producciones extensivas y como manejo de las entre filas de plantaciones frutales."
+            },
+            "mulching": {
+                "title": "Acolchado",
+                "body": "Manto de restos vegetales que son aplicados a la superficie del suelo sin ser incorporados al mismo, principalmente usados en horticultura y fruticultura. El motivo principal del uso de los acolchados es el aumento de la materia orgánica favoreciendo la productividad del cultivo debida al control de las malas hierbas y de la temperatura del suelo, y la disminución de la evaporación de agua del suelo. Esta técnica es utilizada principalmente en producciones intensivas cómo son producciones hortícolas y frutícolas."
+            },
+            "agroforestrySystems": {
+                "title": "Sistemas agroforestales",
+                "body": " Otra forma de mantener el suelo cubierto y protegido de los factores ambientales es implementaciones de sistemas agroforestales, en los cuales se realizan cultivos frutícolas y anuales, con un estrato arbóreo que protege al suelo de los factores ambientales previniendo la erosión. Mediante la realización de podas se puede aportar materia orgánica al agroecosistema. Este tipo de producciones se realizan principalmente en zonas tropicales."
+            }
+        },
+        "negativeAnswer": "Excelente noticia!",
+        "coverManagementTemplate":{
+          "title":"Planifica tus próximas acciones para el manejo de la cobertura del suelo",
+          "usePadding":"Uso de acolchados",
+          "implementGreenFertilizers":"Implementar abonos verdes",
+          "form":{
+              "material":"Material",
+              "datePlacement":"Fecha de siembra:",
+              "quantityMaterial":"Cantidad de material(m3)",
+              "tasks":"Tareas para cumplir objetivo",
+              "deadline":"Fecha límite",
+              "budget":"Presupuesto",
+              "notes":"Notas",
+              "lot":"Lote",
+              "species":"Especie",
+              "plantingDate":"Fecha de siembra",
+              "harvestDate":"Fecha de cosecha",
+              "precedingCrop":"Cultivo antecesor",
+              "update":"Actualizar",
+              "create":"Crear",
+              "personInCharge":"Persona a cargo",
+              "currency":"Moneda",
+              "goal": "Objetivo",
+              "type": "Tipo",
+              "year": "Año"
+          }
+      
+      }
+    },
+    "pruningManagement": {
+        "title": "¿Qué manejo le das a las podas realizadas en tu cultivo? Selecciona una opción.",
+        "options": {
+            "burn": "Quema",
+            "trash": "Tirar a la basura",
+            "chipped": "Chipeado y usado cómo cobertura",
+            "composted": "Compostado"
+        },
+        "messages": {
+            "burn": "¡Cuidado! Recuerda que la quema de podas y restos vegetales es considerada una mala práctica debido a las emisiones de CO2 que se emiten mediante esta práctica. Además, las podas realizadas en los sistemas productivos forman parte de los nutrientes extraídos del suelo, el manejo de la misma de forma adecuada puede beneficiar a la producción aumentando la fertilidad y el cuidado del suelo. Reincorpora las podas al sistema a través del compostaje o como cobertura del suelo.",
+            "trash": "¡Cuidado! Recuerda que los restos de podas realizadas en los sistemas productivos forman parte de los nutrientes extraídos del suelo, el manejo de la misma de forma adecuada puede beneficiar a la producción aumentando la fertilidad y el cuidado del suelo. Reincorpora las podas al sistema a través del compostaje o como cobertura del suelo.",
+            "chipped": "¡Excelente noticia!",
+            "composted": "¡Excelente noticia!"
+        },
+        "dialogTitle": "Tu opción: ",
+        "closeButton": "Cerrar",
+        "form": {
+            "selectObjective": "Selecciona tu objetivo",
+            "planPruningManagement": "Planifica el manejo de las podas",
+            "lot": "Lote",
+            "tasks": "Tareas",
+            "deadline": "Fecha límite de cumplimiento",
+            "materials": "Materiales",
+            "budget": "Presupuesto",
+            "notesObservations": "Notas y observaciones",
+            "compostPruning": "Compostar podas",
+            "chipAndCover": "Cheepear y usar cómo cobertura",
+            "year": "Año",
+            "currency":"Moneda",
+            "other": "Otro"
+        }
+    },
+    "croprotation": {
+        "rotationQuestion": "¿Realiza rotación de cultivos?",
+        "positiveResponse": "¡Excelente noticia! La rotación de cultivos es una práctica de manejo que busca maximizar la productividad por unidad de superficie, optimizando el uso de los recursos. La rotación de cultivos consiste en la sucesión de diferentes cultivos en el mismo suelo a través del tiempo. Esta práctica trae aparejada grandes ventajas cómo:",
+        "negativeResponse": "La rotación de cultivos es una práctica de manejo que busca maximizar la productividad por unidad de superficie, optimizando el uso de los recursos. La rotación de cultivos consiste en la sucesión de diferentes cultivos en el mismo suelo a través del tiempo. Esta práctica trae aparejada grandes ventajas cómo:",
+        "advantages": {
+            "pestControl": "Control de plagas y enfermedades, especialmente del suelo.",
+            "weedControl": "Control de malezas.",
+            "increaseResidualNutrients": "Aumento de los nutrientes residuales en el suelo. Las especies vegetales difieren en sus requerimientos de nutrientes, en cantidad y en su dinámica de absorción.",
+            "legumeContribution": "Las plantas leguminosas pueden realizar aportes de nitrógeno al sistema a través de la fijación biológica, Incluir estas especies en tu plan de rotaciones. Al término del ciclo de crecimiento del cultivo, parte de los nutrientes fijados por la asociación simbiótica permanecen en el perfil del suelo, pudiendo quedar disponibles para el próximo cultivo de la rotación.",
+            "increaseAgriculturalSustainability": "Aumento de la sustentabilidad agrícola."
+        },
+        "form": {
+            "title": "Planifica tus próximas acciones para la rotacion de cultivos",
+            "subtitle": "Aplica sólo a cultivos anuales y bianuales",
+            "year": "Año",
+            "lot": "Lote",
+            "goal": "Objetivo",
+            "speciesToCultivate": "Especie a cultivar",
+            "plantingDate": "Fecha de Siembra",
+            "harvestDate": "Fecha de Cosecha",
+            "precedingSpecies": "Especie antecesora",
+            "targetMarket": "Mercado de destino ",
+            "tasks": "Tareas",
+            "deadline": "Fecha límite",
+            "notesObservations": "Notas y observaciones",
+            "category": "Categoria",
+            "personInCharge":"Persona a cargo",
+            "currency":"Moneda"
+        }
+    },
+    "irrigation": {
+        "question": "¿Conoces la calidad del agua de riego?",
+        "positiveResponse": "¡Excelente noticia! Ten en cuenta estas prácticas para hacer un buen uso del agua de riego.",
+        "negativeResponse": " Conocer la calidad del agua de riego es fundamental para prevenir la contaminación. Si no conoces la calidad del agua que utilizas para tus cultivos te recomendamos:",
+        "title": "fsd",
+        "known_quality": {
+            "point1": "Colocar filtros o barreras en los cauces de ingreso al predio para impedir la contaminación del agua.",
+            "point2": "Proteger y limpiar periódicamente los cauces, los pozos, las áreas y los equipos de bombeo y los canales de distribución del agua de riego, para evitar su contaminación.",
+            "point3": "Optar por técnicas de riego que minimicen las pérdidas de agua y la erosión. Como riego por goteo. En caso de poseer riego por surco controlar el caudal máximo no erosivo.",
+            "point4": "Procurar optimizar el uso del agua de riego y reducir las pérdidas, empleando técnicas como: sistemas de reutilización del agua, riego nocturno, mantenimiento de los equipos de riego, entre otras.",
+            "point5": "No arrojar restos de plaguicidas o envases de plaguicidas a los canales de riego.",
+            "point6": "Las aguas residuales no deben ser utilizadas para el riego, a menos que hayan sido tratadas según las regulaciones establecidas."
+        },
+        "unknown_quality": {
+            "point1": "Evaluar los riesgos potenciales de las fuentes de agua y del sistema de distribución del agua de riego.",
+            "point2": "Colocar filtros o barreras en los cauces de ingreso al predio para impedir la contaminación del agua.",
+            "point3": "Proteger y limpiar periódicamente los cauces, los pozos, las áreas y los equipos de bombeo y los canales de distribución del agua de riego, para evitar su contaminación.",
+            "point4": "Optar por técnicas de riego que minimicen las pérdidas de agua y la erosión. Como riego por goteo. En caso de poseer riego por surco controlar el caudal máximo no erosivo.",
+            "point5": "El agua de riego debe ser analizada en un laboratorio adecuado, con una frecuencia sustentada en un análisis de peligros.",
+            "point6": "Se sugiere tomar la muestra en la época de mayor uso de agua de riego en el cultivo, por su representatividad.",
+            "point7": "Procurar optimizar el uso del agua de riego y reducir las pérdidas, empleando técnicas como: sistemas de reutilización del agua, riego nocturno, mantenimiento de los equipos de riego, entre otras.",
+            "point8": "No arrojar restos de plaguicidas o envases de plaguicidas a los canales de riego.",
+            "point9": "Las aguas residuales no deben ser utilizadas para el riego, a menos que hayan sido tratadas según las regulaciones establecidas."
+        },
+        "form": {
+            "title": "Sistemas de riego",
+            "lot": "Lote",
+            "objective": "Selecciona tu objetivo ",
+            "tasksList": "Lista de tareas para cumplir con objetivo ",
+            "deadlineCompletion": "Fecha límite de cumplimiento ",
+            "materials": "Materiales",
+            "budget": "Presupuesto",
+            "currency": "Moneda",
+            "notesObservations": "Notas observaciones",
+            "materialsAndWasteList": "Lista de materiales",
+            "personInCharge": "Responsable a cargo ",
+            "origin": "Origen",
+            "destination": "Destino",
+            "management": "Manejo",
+            "year": "Año"
+        },
+        "objectiveOptions": {
+            "evaluateRisks": "Evaluar los riesgos potenciales",
+            "waterAnalysis": "Realizar análisis del agua",
+            "installFilters": "Colocar filtros",
+            "protectClean": "Proteger y limpiar",
+            "dripIrrigation": "Riego por goteo",
+            "laboratoryAnalysis": "Análisis de laboratorio",
+            "optimizeWaterUse": "Optimizar el uso del agua",
+            "treatWasteWater": "Tratar aguas residuales",
+            "other": "Otro"
+        },
+        "currencies": {
+            "CR": "CR",
+            "EC": "EC",
+            "ARG": "ARG",
+            "USD": "USD"
+        }
+    },
+    "labels": {
+        "soilTreatmentType": "Mis Tareas",
+        "loading": "Cargando...",
+        "error": "Error:",
+        "year": "Año",
+        "date": "Fecha Limite",
+        "goal": "Objetivo",
+        "complete": "Completado",
+        "delete": "Eliminar",
+        "confirmDeletion": "Confirmar Eliminación",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar",
+        "more": "Ver más",
+        "detailsItem": "Detalles"
+    },
+    "menuItems": {
+        "cover": "Gestión de Cobertura",
+        "tillage": "Labranza",
+        "fertilization": "Fertilización",
+        "pruningManagement": "Manejo de Poda",
+        "croprotation": "Rotación de Cultivos",
+        "irrigation": "Riego"
+    },
+    "dialogs": {
+        "deleteDialogTitle": "¿Eliminar Registro?",
+        "deleteDialogContent": "¿Estás seguro de que quieres eliminar este registro?"
+    },
+    "tillage": {
+        "question": "¿Utiliza maquinaria agrícola para la labranza?",
+        "form": {
+            "title": "Planifica tus próximas acciones para el manejo de labranza",
+            "body": "Identifica mis prácticas de cultivo.",
+            "lot": "Lote",
+            "year": "Año",
+            "machineryUsed": "Maquinaria utilizada",
+            "dateWork": "Fecha de la tarea",
+            "goal": "Tareas para cumplir el objetivo",
+            "numberPassesPerWork": "Número de pasadas por trabajo",
+            "tasksFulfillObjective": "Tareas para cumplir el objetivo",
+            "deadlineCompletion": "Fecha límite de finalización",
+            "necessaryMaterial": "Material necesario",
+            "budget": "Presupuesto",
+            "notesObservations": "Notas y observaciones",
+            "update": "Actualizar",
+            "tillageType": "Selecciona el tipo de labranza",
+            "primary": "Primaria",
+            "secondary": "Secundaria",
+            "objective": "Selecciona tu objetivo",
+            "implementTillage": "Implementar labranza de conservación",
+            "calibrateMachinery": "Calibrar maquinaria",
+            "other": "Otro",
+            "save": "Guardar",
+            "errorMessage": "Por favor, rellena todos los campos antes de continuar.",
+            "successMessage": "Guardado exitosamente.",
+            "personInCharge":"Persona a cargo",
+            "currency":"Moneda"
+        },
+        "farmingTypeComponent": {
+            "question": "¿Qué tipo de labranza realizas?",
+            "type": "Selecciona el tipo de labranza",
+            "tooltip1": "Labranza convencional: Se conserva menos del 30% de la cubierta vegetal. La labranza convencional es un método a menudo utilizado en varios sistemas de producción, sin embargo, tiene efectos negativos como el aumento de la erosión, la disminución del contenido de materia orgánica y la alteración de las propiedades físicas, químicas y biológicas del suelo. Las maquinarias que realizan este tipo de labranza incluyen",
+            "tooltip2": "Labranza de conservación: Se conserva más del 30% de la cubierta vegetal, evitando que el suelo quede completamente desnudo. La maquinaria que realiza este tipo de labranza trabaja verticalmente. Los principales beneficios de la labranza de conservación son la reducción de la erosión del suelo y una mejor retención de agua en el suelo, lo que resulta en una mayor resistencia a la sequía.",
+            "conventionalTillage": "Labranza convencional",
+            "conservationTillage": "Labranza de conservación",
+            "questionMahine": "¿qué maquinaria utilizas?",
+            "selectMachine": "Selecciona la maquinaria utilizada para la Labranza Primaria:",
+            "moldboardplow": "Arado de reja y vertedera",
+            "roto": "Arado rotovator",
+            "discplows": "Arado de casquetes (independientes o verticales)",
+            "subsoile": "Arado subsolador (sistematización)",
+            "decompacting": "Arado des compactador (sistematización)",
+            "chisel": "Arado de cincel (reja + timón)",
+            "secondaryTillage": "Selecciona la maquinaria utilizada para la Labranza Secundaria:",
+            "harrow": "Rastra de casquetes de doble acción (encontrada / desencontrada / excéntrica)",
+            "fieldCultivator": "Cultivador de campo",
+            "vibroCultivator": "Vibro cultivador (reja + timón)"
+        }
+    },
+    "fertilization": {
+        "question": "¿Conoce la cantidad de nutrientes que extrae y que necesita su cultivo?",
+        "positiveAnswer": {
+            "body": "Excelente Noticia!  El manejo nutricional debe responder  a las necesidades reales del cultivo; es decir, es necesario tomar en cuenta la cantidad de nutrientes disponibles en el suelo y la cantidad de nutrientes que el cultivo extrae. El uso inadecuado de fertilizantes contribuye a la generación de problemáticas cómo:",
+            "point1": "Salinización de los suelo",
+            "point2": "Acidificación de los suelos",
+            "point3": "Eutrofización de aguas",
+            "point4": "Alteración de la actividad microbiológica"
+        },
+        "negativeAnswer": {
+            "body": "Los productores deben asegurarse de que el manejo nutricional responda a las necesidades reales del cultivo; es decir, es necesario tomar en cuenta la cantidad de nutrientes disponibles en el suelo y la cantidad de nutrientes que el cultivo extrae. El uso inadecuado de fertilizantes contribuye a la generación de problemáticas cómo:",
+            "point1": "Salinización de los suelo",
+            "point2": "Acidificación de los suelos",
+            "point3": "Eutrofización de aguas",
+            "point4": "Alteración de la actividad microbiológica"
+        },
+        "form": {
+            "title": "Realiza un plan de fertilización",
+            "body": "Identifica las practicas de cultivo.",
+            "selectType": "Selecciona el tipo de fertilización ",
+            "chemicalOption": "Química",
+            "organicOption": "Orgánica",
+            "selecObjectives": "Selecciona tu objetivo ",
+            "getNutritionalRequirements": "Obtener los requerimientos nutricionales del cultivo.",
+            "createMonitoringPlan": "Crear un plan de monitoreo y optimizar el uso de fertilizantes inorgánicos.",
+            "applyFertilizersBasedOnRequirements": "Aplicar fertilizantes en base a los requerimientos del cultivo.",
+            "calibrateMachineryForAccuracy": "Calibrar maquinarias para una aplicación sea certera.",
+            "conductSoilAnalysis": "Realizar análisis de suelo de laboratorio.",
+            "consultWithTrainedPersonnel": "Consultar a personal capacitado.",
+            "performFertigation": "Realizar ferti-riego.",
+            "conductTraining": "Realizar capacitaciones en la temática.",
+            "conductAndIncorporateOrganicFertilizers": "Realizar e incorporar abonos orgánicos.",
+            "buyOrganicFertilizersNew": "Comprar abonos orgánicos.",
+            "applyFertilizersBasedOnCropRequirements": "Aplicar abonos en base a los requerimientos del cultivo.",
+            "conductTrainingOnTopic": "Realizar capacitaciones en la temática.",
+            "other": "Otro",
+            "lot": "Lote",
+            "cultivatedSpecies": "Especie cultivada",
+            "tasks": "Tareas",
+            "deadlineCompletion": "Fecha límite de cumplimiento ",
+            "budget": "Presupuesto",
+            "notesObservations": "Notas observaciones",
+            "update": "Actualizar",
+            "errorMessage": "Por favor, rellene todos los campos antes de continuar.",
+            "successMessage": "Guardado exitosamente.",
+            "save": "Guardar",
+            "personInCharge":"Persona a cargo",
+            "year":"Año",
+            "currency":"Moneda"
+        }
+    },
+    "cover": {
+        "form": {
+            "material":"Material",
+            "datePlacement":"Fecha de siembra:",
+            "quantityMaterial":"Cantidad de material(m3)",
+            "tasks":"Tareas para cumplir objetivo",
+            "deadline":"Fecha límite",
+            "budget":"Presupuesto",
+            "notes":"Notas",
+            "lot":"Lote",
+            "species":"Especie",
+            "plantingDate":"Fecha de siembra",
+            "harvestDate":"Fecha de cosecha",
+            "precedingCrop":"Cultivo antecesor",
+            "update":"Actualizar",
+            "create":"Crear",
+            "personInCharge":"Persona a cargo",
+            "currency":"Moneda",
+            "goal": "Objetivo"
+        }
+    },
+    "navTab":{
+        "intro": "Intro",
+        "carbonCapture": "Captura de Carbono",
+        "soil": "Suelo",
+        "tillage": "Labranza",
+        "fertilization": "Fertilización",
+        "pruning": "Poda",
+        "cropRotation": "Rotacion de Cultivo",
+        "irrigation": "Riego",
+        "tasks": "Tareas"
+    }
+}

@@ -1,0 +1,421 @@
+{
+    "title": "Soil Regeneration Plan",
+    "titlePage": "Soil Plan",
+    "initialQuestion1": "WHY THE SOIL IS",
+    "initialQuestion2": "AMAZING?",
+    "initialMessage": [
+        "The soil is one of the most underestimated and poorly understood,",
+        "wonders on our fragile planet.",
+        "Knowing their value and care is vitally important."
+    ],
+    "soilQuestion3": "Why the soil is amazing?",
+    "soilQuestion4": "Can you summarize the video in your own words?",
+    "soilQuestion5": "Would you like to answer a question to reinforce your knowledge?",
+    "soilVideo": "https://www.youtube.com/embed/MmJUj4Aa2kM?",
+    "videoDescription": "The video talks about the incredible characteristics and benefits of soil. It mentions how soil is essential for life as it is home to millions of species and is the place where plants produce our food. In addition, soil helps filter and purify water, stores carbon, and helps regulate the climate. It also mentions the importance of caring for and protecting the soil to ensure its long-term health and productivity. In summary, the video highlights the importance of soil as a vital resource and how its conservation is essential for our survival...",
+    "buttons": {
+        "continue": "CONTINUE",
+        "watch": "WATCH VIDEO",
+        "question": "QUESTION",
+        "next": "NEXT",
+        "yes": "YES",
+        "no": "NO",
+        "tasks": "TASKS",
+        "back": "BACK",
+        "start": "START"
+    },
+    "messagesWithTitles": {
+        "carboonTitle": "Carbon Capture",
+        "carboonMessage": "Soil has the potential to mitigate climate change by capturing carbon and storing it as stable organic matter. This phenomenon is known as carbon sequestration. In order for the soil to fulfill this function, it is necessary to improve management practices that allow it to store more carbon.",
+        "soilVocationTitle": "Do you know the vocation of the soil?",
+        "soilVocationRequest": "Please select an option",
+        "soilVocationMessage": "Each soil has a vocation, which is determined by the materials that originated it, the climate, the weather, the vegetation, among other factors.",
+        "soilVocationMessage2": "The first step is to know the soil's vocation in order to be able to take care of it and understand its limitations and scope. Mainly the following vocations can be distinguished:",
+        "soilVocationMessage3": "If you do not know the vocation of your soil and you notice that your production is not succeeding, know its characteristics and scope, you can find more about your soil according to your area here:",
+        "soilIndicatorMessage": "Agriculture is an essential activity for human sustenance, but it is also important to ensure that sustainable and soil-healthy practices are being used. Knowing the state of the soil and agricultural practices through physical indicators is essential to detect production problems and take measures to improve productivity and sustainability. This text discusses the importance of knowing the state of the soil and agricultural practices through physical indicators in order to detect production problems and take measures to improve productivity and sustainability.",
+        "soilVocationSelect": "Select an option according to the table"
+    },
+    "soilVocations": {
+        "agricole": "AGRICOLE",
+        "livestock": "LIVESTOCK",
+        "agroforestry": "AGROFORESTRY",
+        "forestry": "FORESTRY",
+        "conservation": "CONSERVATION"
+    },
+    "carbonQuestionAnswers1": {
+        "question": "What is carbon sequestration?",
+        "answer1": "Carbon is captured and stored in the soil, which can occur naturally through biological activity in the soil.",
+        "answer2": "The process of burning carbon in the soil to release energy.",
+        "answer3": "It involves burying large amounts of carbon underground to hide it from the atmosphere.",
+        "warningMessage": "Carbon is captured and stored in the soil."
+    },
+    "physicalSoilIndicators": "Physical Soil Indicators",
+    "physicalSoilQuestions": {
+        "crustsQuestion": "Are crusts visible on the surface?",
+        "crustsAnswer": "Crusting on the soil is an indicator of physical degradation, it is likely that your soil has gone through periods without living or dead plant cover, exposed to environmental factors that generate desiccation, compaction, and compaction, these are signs that may be compromising the fertility of the soil in the long term. Crusting is a common problem in soils with little agglomeration. It results primarily from the impact of raindrops, causing the clay particles on the surface to disperse and close the pores immediately below the surface.The rains that follow are likely to run off rather than be absorbed into the soil.",
+        "saltsQuestion": "Are salts observed on the surface?",
+        "saltsAnswer": "The presence of salts is common in soils of arid areas or saline soils, if you are not in this type of environment and salts are present on the surface, control the quality of irrigation water as salts may be incorporated through the water, in the case of saline water, the quantities of water provided should be increased to avoid salinization of the soil, the presence of salts on the surface is common in crops under cover where rainfall does not reach the soil.",
+        "waterInfiltrationQuestion": "Do you have water infiltration problems that you did not have in the past?",
+        "waterInfiltrationAnswer": "The water infiltration capacity of the soil is associated with both its texture and structure. Texture refers to the amount of silt, clay, and sand that a soil has, this condition is genetic and cannot be changed by management. The structure of soil is of a qualitative nature and is associated with the spatial arrangement of the particles, and their ability to stay in a certain spatial arrangement, The structure in turn determines the air spaces in the soil, this means its porosity and its capacity to provide a suitable environment for plant growth. The infiltration problems are often caused by the loss of soil structure, which is associated with aggressive tillage, and exposure of the soil to environmental factors such as rainfall, wind, loss of organic matter, and loss of biological activity.",
+        "aggregatesQuestion": "Are aggregates visualized?",
+        "aggregatesAnswer1": "Soil aggregates are groupings of particles, that are part of the soil structure, and they can be easily seen near the roots of plants, They provide structural stability to soils as they generate pore spaces, through which water and airflow, which plants need to live. The presence of soil aggregates is a good indicator of soil health. It is desirable to have a crumbly structure in the first 30 cm, a porous structure that allows good infiltration and air circulation.",
+        "aggregatesAnswer2": "The opposite of aggregation is dispersion. In dispersed soil, each individual soil particle is free to be blown away by the wind or washed away by a flowing water stream. If they are not easily visualized, it is possible that our soil lacks adequate structure for plant development, This leads to problems of both infiltration and air circulation.",
+        "evaluateSoilQuestion": "Do you want to evaluate the fertility of your soil through a questionnaire?",
+        "evaluateSoilAnswer": "In the soil there are a series of factors that determine its level of fertility, which is why it is of utmost importance to know about them",
+        "cropsLocationQuestion": "Do you have crops located on slopes greater than 1%?",
+        "cropsAnswer": "Farming on steep slopes requires preventive measures to avoid soil erosion due to organic matter carryover. If you farm on steep slopes, make sure to prevent erosion by implementing terraced crops, and contour lines.",
+        "additionalQuestion": {
+            "question": "Do you have any strategies to control erosion on slopes?",
+            "yesResponse": "Excellent! You are preventing soil erosion by dragging materials.",
+            "noResponse": "Practicing agriculture on steep slopes requires preventive measures to avoid soil erosion due to the dragging of organic matter."
+        }
+    },
+    "letsWork": "Let's get to work",
+    "letsWorkInformation": "Suggestions for treating the soil according to the problem:",
+    "suggestions": {
+        "infiltration": "INFILTRATION",
+        "crusts": "CRUSTS",
+        "salts": "SALTS",
+        "fertility": "FERTILITY",
+        "aggregates": "AGGREGATES",
+        "pendings": "PENDING"
+    },
+    "suggestionsMessage1": "Review your management practices and make sure:",
+    "suggestionsMessage2": "Field tasks to be performed:",
+    "tasksTable": {
+        "date": "DATE",
+        "task": "TASK",
+        "completed": "COMPLETED",
+        "delete": "DELETE",
+        "tasksToDo": "Field tasks to be performed"
+    },
+    "coverManagement":{
+        "question": "Is the soil bare during the production cycle?",
+        "positiveAnswer": {
+            "title": "Warning!",
+            "body": "Bare soil is at risk of erosion. To protect the soil, you can apply vegetative cover by:",
+            "covercrops": {
+                "title": "Cover crops",
+                "body": "Cover crops are those that are carried out between two harvest crops. Initially, they were performed to 'cover' the soil in order to control erosion. Their inclusion contributes other environmental services such as: carbon sequestration, increased infiltration, nutrient recycling, weed control, and also the provision of fodder. For this reason, cover crops are currently known as 'service crops' (SC), they are mainly used in extensive productions and as management of the rows between fruit plantations."
+            },
+            "mulching": {
+                "title": "Mulching",
+                "body": "This is a layer of plant residues that are applied to the surface of the soil without being incorporated into it, primarily used in horticulture and fruit cultivation. The main reason for using mulches is to increase organic matter, thereby promoting crop productivity due to the control of weeds and soil temperature, and the reduction of water evaporation from the soil. This technique is mainly used in intensive productions such as horticultural and fruit crops."
+            },
+            "agroforestrySystems": {
+                "title": "Agroforestry systems",
+                "body": "Another way to keep the soil covered and protected from environmental factors is the implementation of agroforestry systems. In these systems, annual and fruit crops are cultivated with a tree layer that protects the soil from environmental factors, preventing erosion. By pruning, organic matter can be contributed to the agroecosystem. This type of production is primarily carried out in tropical regions."
+            }
+        },
+        "negativeAnswer": "Great!",
+        "coverManagementTemplate":{
+            "title":"Plan your next actions for land cover management",
+            "usePadding":"Use of padding",
+            "implementGreenFertilizers":"Implement green fertilizers",
+            "form":{
+                "material":"Material",
+                "datePlacement":"Date placement",
+                "quantityMaterial":"Quantity material",
+                "tasks":"Tasks to achieve goal",
+                "deadline":"Deadline for compliance",
+                "budget":"Budget",
+                "notes":"Notes",
+                "lot":"lot",
+                "species":"species",
+                "plantingDate":"Seedtime",
+                "harvestDate":"Harvest date",
+                "precedingCrop":"preceding crop",
+                "update":"Update",
+                "create":"Create",
+                "personInCharge":"Person in charge",
+                "currency":"Currency",
+                "goal": "Goal",
+                "type": "Type",
+                "year": "Year"
+            }
+
+        }
+    },
+    "pruningManagement": {
+        "title": "What management do you give to the pruning done in your crop? Select an option.",
+        "options": {
+            "burn": "Burn",
+            "trash": "Trash",
+            "chipped": "Chipped and used as coverage",
+            "composted": "Composted"
+        },
+        "messages": {
+            "burn": "Careful! Remember that burning pruning and vegetable waste is considered bad practice due to the CO2 emissions emitted through this practice. Moreover, the pruning done in production systems is part of the nutrients extracted from the soil. Properly managing it can benefit production by increasing fertility and soil care. Reincorporate pruning to the system through composting or as soil coverage.",
+            "trash": "Careful! Remember that the waste from pruning done in production systems is part of the nutrients extracted from the soil. Properly managing it can benefit production by increasing fertility and soil care. Reincorporate pruning to the system through composting or as soil coverage.",
+            "chipped": "Great news!",
+            "composted": "Great news!"
+        },
+        "dialogTitle": "Your option: ",
+        "closeButton": "Close",
+        "form": {
+            "planPruningManagement": "Plan your next actions for pruning management",
+            "selectObjective": "Select your goal",
+            "lot": "Lot",
+            "tasks": "Tasks",
+            "deadline": "Deadline for fulfillment",
+            "materials": "Materials",
+            "budget": "Budget",
+            "notesObservations": "Notes and observations",
+            "compostPruning": "Compost pruning",
+            "chipAndCover": "Chip and use as cover",
+            "year": "Year",
+            "currency":"Currency",
+            "other": "Other"
+        }
+    },
+    "croprotation": {
+        "rotationQuestion": "Do you practice crop rotation?",
+        "positiveResponse": "Excellent news! Crop rotation is a management practice that seeks to maximize productivity per unit area by optimizing resource use. Crop rotation involves the succession of different crops on the same soil over time. This practice brings with it great advantages such as:",
+        "negativeResponse": "Crop rotation is a management practice that seeks to maximize productivity per unit area by optimizing resource use. Crop rotation involves the succession of different crops on the same soil over time. This practice brings with it great advantages such as:",
+        "advantages": {
+            "pestControl": "Pest and disease control, especially in the soil.",
+            "weedControl": "Weed control.",
+            "increaseResidualNutrients": "Increase in residual nutrients in the soil. Plant species differ in their nutrient requirements, in quantity and in their absorption dynamics.",
+            "legumeContribution": "Leguminous plants can make contributions of nitrogen to the system through biological fixation. Include these species in your rotation plan. At the end of the crop's growth cycle, some of the nutrients fixed by the symbiotic association remain in the soil profile, potentially becoming available for the next crop in the rotation.",
+            "increaseAgriculturalSustainability": "Increase in agricultural sustainability."
+        },
+        "form": {
+            "year": "Year",
+            "title": "Plan your next actions for crop rotation",
+            "subtitle": "Applies only to annual and biennial crops",
+            "lot": "Lot",
+            "goal": "Goal",
+            "speciesToCultivate": "Species to cultivate",
+            "plantingDate": "Seedtime",
+            "harvestDate": "Harvest date",
+            "precedingSpecies": "Preceding species",
+            "targetMarket": "Target market",
+            "tasks": "Tasks",
+            "deadline": "Deadline",
+            "notesObservations": "Notes and observations",
+            "category": "Category",
+            "personInCharge":"Person in charge",
+            "currency":"Moneda"
+            
+        }
+    },
+    "irrigation": {
+        "question": "Do you know the quality of the irrigation water?",
+        "positiveResponse": "Excellent news! Keep in mind these practices to make good use of irrigation water.",
+        "negativeResponse": "Knowing the quality of the irrigation water is essential to prevent contamination. If you do not know the quality of the water you use for your crops, we recommend:",
+        "title": "fsd",
+        "known_quality": {
+            "point1": "Place filters or barriers in the water ingress channels to your property to prevent water contamination.",
+            "point2": "Protect and periodically clean the channels, wells, areas and pumping equipment, and the water distribution channels, to prevent their contamination.",
+            "point3": "Opt for irrigation techniques that minimize water loss and erosion. Such as drip irrigation. If you have furrow irrigation, control the maximum non-erosive flow.",
+            "point4": "Try to optimize the use of irrigation water and reduce losses, using techniques such as: water reuse systems, night irrigation, maintenance of irrigation equipment, among others.",
+            "point5": "Do not throw pesticide residues or pesticide containers into the irrigation channels.",
+            "point6": "Wastewater should not be used for irrigation unless it has been treated according to established regulations."
+        },
+        "unknown_quality": {
+            "point1": "Evaluate the potential risks of water sources and the water distribution system.",
+            "point2": "Place filters or barriers in the water ingress channels to your property to prevent water contamination.",
+            "point3": "Protect and periodically clean the channels, wells, areas and pumping equipment, and the water distribution channels, to prevent their contamination.",
+            "point4": "Opt for irrigation techniques that minimize water loss and erosion. Such as drip irrigation. If you have furrow irrigation, control the maximum non-erosive flow.",
+            "point5": "Irrigation water should be analyzed in a suitable laboratory, with a frequency supported by a hazard analysis.",
+            "point6": "It is suggested to take the sample during the time of greatest use of irrigation water in the crop, for its representativeness.",
+            "point7": "Try to optimize the use of irrigation water and reduce losses, using techniques such as: water reuse systems, night irrigation, maintenance of irrigation equipment, among others.",
+            "point8": "Do not throw pesticide residues or pesticide containers into the irrigation channels.",
+            "point9": "Wastewater should not be used for irrigation unless it has been treated according to established regulations."
+        },
+        "form": {
+            "title": "Planning worksheet for irrigation system",
+            "lot": "Lot",
+            "objective": "Choose your objective",
+            "tasksList": "Tasks List",
+            "deadlineCompletion": "Deadline",
+            "materials": "Materials",
+            "budget": "Budget",
+            "currency": "Currency",
+            "notesObservations": "Notes and observations",
+            "materialsAndWasteList": "List of materials",
+            "origin": "Origin",
+            "destination": "Destination",
+            "management": "Management",
+            "personInCharge": "Person in charge",
+            "year": "Year"
+        },
+        "objectiveOptions": {
+            "evaluateRisks": "Evaluate Potential Risks",
+            "waterAnalysis": "Perform Water Analysis",
+            "installFilters": "Install Filters",
+            "protectClean": "Protect and Clean",
+            "dripIrrigation": "Drip Irrigation",
+            "laboratoryAnalysis": "Laboratory Analysis",
+            "optimizeWaterUse": "Optimize Water Use",
+            "treatWasteWater": "Treat Waste Water",
+            "other": "Other"
+        },
+        "currencies": {
+            "CR": "CR",
+            "EC": "EC",
+            "ARG": "ARG",
+            "USD": "USD"
+        }
+    },
+    "labels": {
+        "soilTreatmentType": "My tasks",
+        "loading": "Loading...",
+        "error": "Error:",
+        "year": "Year",
+        "date": "Deadline Date",
+        "goal": "Goal",
+        "complete": "Complete",
+        "delete": "Delete",
+        "confirmDeletion": "Confirm Deletion",
+        "cancel": "Cancel",
+        "confirm": "Confirm",
+        "more": "See more",
+        "detailsItem": "Details"
+    },
+    "menuItems": {
+        "cover": "Cover Management",
+        "tillage": "Tillage",
+        "fertilization": "Fertilization",
+        "pruningManagement": "Pruning Management",
+        "croprotation": "Crop Rotation",
+        "irrigation": "Irrigation"
+    },
+    "dialogs": {
+        "deleteDialogTitle": "Confirm Deletion",
+        "deleteDialogContent": "Are you sure you want to delete this record?"
+    },
+    "tillage": {
+        "question": "Do you use agricultural machinery for tillage?",
+        "form": {
+            "title": "Plan your next actions for tillage management",
+            "body": "Identify my farming practices.",
+            "lot": "Lot",
+            "year": "Year",
+            "machineryUsed": "Machinery used",
+            "dateWork": "Date of the task",
+            "goal": "Tareas para cumplir objetivo",
+            "numberPassesPerWork": "Number passes per work",
+            "tasksFulfillObjective": "Tasks fulfill objective",
+            "deadlineCompletion": "Deadline completion",
+            "necessaryMaterial": "Necessary material",
+            "budget": "Budget",
+            "notesObservations": "Notes observations",
+            "update": "Update",
+            "tillageType": "Select type of tillage",
+            "primary": "Primary",
+            "secondary": "Secundary",
+            "objective": "select your objective",
+            "implementTillage": "Implement conservation tillage",
+            "calibrateMachinery": "Calibrate machinery",
+            "other": "Other",
+            "save": "save",
+            "errorMessage": "Please fill out all the fields before continuing.",
+            "successMessage": "Saved Succefully.",
+            "currency":"Currency"
+        },
+        "farmingTypeComponent": {
+            "question": "What kind of farming do you do?",
+            "type": "Select type of tillage",
+            "tooltip1": "Conventional Tillage: Less than 30% of the vegetative cover is preserved. Conventional tillage is a method often used in various production systems, however, it has negative effects such as increased erosion, decrease in organic matter content, and alteration of the physical, chemical, and biological properties of the soil. The machinery that performs this type of tillage includes",
+            "tooltip2": "Conservation Tillage: More than 30% of the vegetative cover is preserved, preventing the soil from being completely bare. The machinery that performs this type of tillage works vertically. The main benefits of conservation tillage are reduced soil erosion and better water retention in the soil, resulting in greater resistance to drought.",
+            "conventionalTillage": "Conventional Tillage",
+            "conservationTillage": "Conservation Tillage",
+            "questionMahine": "what machinery do you use?",
+            "selectMachine": "Select the machinery used for Primary Tillage:",
+            "moldboardplow": "Moldboard plow",
+            "roto ": "Rotovator plow ",
+            "discplows": "Disc plows (independent or vertical)",
+            "subsoile": "Subsoiler plow (systematization)",
+            "decompacting": "Decompacting plow (systematization",
+            "chisel": "Chisel plow (share + helm)",
+            "secondaryTillage": "Select the machinery used for Secondary Tillage:",
+            "harrow": "Double action harrow of caps (opposed / unopposed / eccentric)",
+            "fieldCultivator": "Field Cultivator",
+            "vibroCultivator": "Vibro Cultivator (share + helm)"
+        }
+    },
+    "fertilization":{
+        "question": "Do you know the amount of nutrients that your crop extracts and needs?",
+        "positiveAnswer":{
+            "body":"Excellent News! Nutritional management should respond to the actual needs of the crop; that is, it is necessary to take into account the amount of nutrients available in the soil and the amount of nutrients that the crop extracts. Improper use of fertilizers contributes to the generation of problems such as:",
+            "point1":"Soil salinization",
+            "point2":"Acidification of soils",
+            "point3":"Eutrophication of waters",
+            "point4":"Alteration of microbial activity"
+        },
+        "negativeAnswer":{
+            "body":"Producers must ensure that nutritional management responds to the real needs of the crop; that is, it is necessary to consider the amount of nutrients available in the soil and the amount of nutrients that the crop extracts. Improper use of fertilizers contributes to the generation of problems such as:",
+            "point1":"Soil salinization",
+            "point2":"Acidification of soils",
+            "point3":"Eutrophication of waters",
+            "point4":"Alteration of microbial activity"
+        },
+        "form": {
+            "title": "Plan your fertilization crops",
+            "body": "Identify my farming practices.",
+            "selectType":"Select the type of fertilization",
+            "chemicalOption":"Chemical",
+            "organicOption":"Organic",
+            "selecObjectives":"Select the type of fertilization",
+            "getNutritionalRequirements":"Get the nutritional requirements of the crop.",
+            "createMonitoringPlan":"Create a monitoring plan and optimize the use of inorganic fertilizers.",
+            "applyFertilizersBasedOnRequirements":"Apply fertilizers based on crop requirements.",
+            "calibrateMachineryForAccuracy":"Calibrate machinery for accurate application.",
+            "conductSoilAnalysis":"Conduct laboratory soil analysis.",
+            "consultWithTrainedPersonnel":"Consult with trained personnel.",
+            "performFertigation":"Perform fertigation.",
+            "conductTraining":"Conduct training on the subject.",
+            "conductAndIncorporateOrganicFertilizers":"Conduct and incorporate organic fertilizers",
+            "buyOrganicFertilizersNew":"Buy organic fertilizers",
+            "applyFertilizersBasedOnCropRequirements":"Apply fertilizers based on crop requirements",
+            "conductTrainingOnTopic":"Conduct training on the topic",
+            "other": "Other",
+            "lot":"Lot",
+            "cultivatedSpecies": "Cultivated species",
+            "tasks":"Tasks",
+            "deadlineCompletion": "Deadline completion",
+            "budget": "Budget",
+            "notesObservations": "Notes observations",
+            "update": "Update",
+            "errorMessage":"Please fill out all the fields before continuing.",
+            "successMessage":"Saved Succefully.",
+            "save":"Save",
+            "year":"Year",
+            "personInCharge":"Person in charge",
+            "currency":"Currency"
+        }
+    },
+    "cover": {
+        "form": {
+                "material":"Material",
+                "datePlacement":"Date placement",
+                "quantityMaterial":"Quantity material",
+                "tasks":"Tasks to achieve goal",
+                "deadline":"Deadline for compliance",
+                "budget":"Budget",
+                "notes":"Notes",
+                "lot":"lot",
+                "species":"species",
+                "plantingDate":"Seedtime",
+                "harvestDate":"Harvest date",
+                "precedingCrop":"preceding crop",
+                "update":"Update",
+                "create":"Create",
+                "personInCharge":"Person in charge",
+                "currency":"Currency",
+                "goal": "Goal"  
+        }
+    },
+    "navTab":{
+        "intro": "Intro",
+        "carbonCapture": "Carbon Capture",
+        "soil": "Soil",
+        "tillage": "Tillage",
+        "fertilization": "Fertilization",
+        "pruning": "Pruning",
+        "cropRotation": "Crop Rotation",
+        "irrigation": "Irrigation",
+        "tasks": "Tasks"
+    }
+}

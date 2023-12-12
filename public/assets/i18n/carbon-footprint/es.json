@@ -1,0 +1,77 @@
+{
+  "title": "Huella de Carbono",
+  "title2": "Administracion Huellas de Carbono",
+  "navigation": {
+    "home": "Inicio",
+    "myFarms": "Mis Fincas",
+    "carbonFoot":"Huella de Carbono"
+  },
+  "inputs": {
+    "farmLabel": "Finca",
+    "footprintCalc": "Calculo de Huella de Carbono",
+    "yearLabel": "Año",
+    "allYears":"Todos los Años",
+    "categoryLabel": "Categoría",
+    "factorLabel": "Factor de emisión",
+    "consumptionLabel": "`Consumo ({{unit}})",
+    "nitrogenRateLabel": "Tasa de nitrógeno [Opcional]",
+    "waterRateLabel": "Tasa de agua [Opcional]",
+    "percentageLabel": "Porcentaje de N(%)",
+    "applyingRateLabel": "Tasa de aplicación (kg/hec)",
+    "submitCalc": "Calcular",
+    "calcError": "Algo salió mal. Intentelo de nuevo",
+    "restartSession": "Reiniciar sesión"
+  },
+  "alerts": {
+    "noFarmSelected": "Selecciona una finca primero por favor",
+    "noCarbonFoorprintCalc": "Aún no se han realizado cálculos de Huella de Carbono de la finca seleccionada, haz click en \"$t(inputs.footprintCalc)\" para crear una nueva.",
+    "selectFarm":"Porfavor seleccione una granja para obtener las huellas de carbono disponibles"
+  },
+  "dialogs": {
+    "deleteCalcTitle": "Confirmar eliminación",
+    "deleteCalcDescription": "¿Está seguro de que desea eliminar este cálculo?",
+    "calcResultTitle": "Resultado del Cálculo",
+    "calcSummaryTitle": "Resumen del cálculo"
+  },
+  "calcTable": {
+    "dateLabel": "Fecha de cálculo",
+    "productLabel": "Fuente de emisión",
+    "resultLabel": "Resultado",
+    "yearLabel": "Año de cálculo",
+    "detailsLabel": "Detalles",
+    "actionslabel": "Acciones",
+    "categoryLabel": "Categoría",
+    "consumptionLabel": "Consumo",
+    "totalMsg":"Total en "
+  },
+  "validations": {
+    "requiredFactor": "Selecciona un factor de emisión",
+    "requiredYear": "Seleccionar un año",
+    "consumptionRequired": "Introduce el consumo",
+    "invalidNumber": "Introduce un número válido",
+    "greaterThanZero": "Introduce un número mayor a cero"
+  },
+  "moduleHelp": {
+    "aboutTitle": "Descripción",
+    "aboutParagraphs": [
+      "Esta funcionalidad permite realizar el cálculo de la huella de carbono de las actividades agrícolas mediante el ingreso de los consumos de cada una de las fuentes de emisión, el cálculo se realiza de forma anual y brinda el resultado en toneladas de CO2 equivalente emitido. Para la realización del cálculo y conversión de los datos ingresados en CO2 emitido YvY utiliza la metodología propuesta por GHG protocol, que es una de las metodologías que se usa y reconoce ampliamente en el mundo, y la que utiliza Fundación Plan21 en su programa Carbonocero.",
+      "IMPORTANTE: No es un certificado de emisión de la finca, ya que los datos no son validados por una tercera parte, es una autoevaluación que permite al usuario obtener datos para incorporar en sus planificaciones y hacer proyecciones y planes de mejora en la gestión de la finca."
+    ],
+    "readMoreTitle": "Mas información",
+    "readMoreParagraphs": [
+      "Para realizar los cálculos, YvY utiliza los Potenciales de Calentamiento Global publicados en el quinto reporte del IPCC. Los Factores de Emisión del mismo informe, o los de cada país en cuestión en caso de que se conozcan o estén publicados. Los Poderes Caloríficos lo mismo. Se utilizan por defecto los datos publicados por IPCC y cuando hay datos nacionales confiables, se utilizan éstos."
+    ]
+  },
+  "filter":{
+    "label":{
+      "all": "Todos",
+      "emissionFactor": "Factor de Emision",
+      "year": "Año",
+      "filterBy": "Filtrar por...",
+      "filter": "Filtro",
+      "total": "Total de Huella de Carbono"
+    },
+    "applyFilter" : "Aplicar Filtro",
+    "noFilter" : "Borrar Filtro"
+  }
+}

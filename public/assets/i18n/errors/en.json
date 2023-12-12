@@ -1,0 +1,13 @@
+{
+  "network": "We are having trouble connecting with our servers, please try again later.",
+  "timeout": "Timeout error",
+  "cancel": "Request canceled",
+  "unknown": "Unknown error",
+  "badResponse": "Something went wrong, please check submitted info or verify your email.",
+  "errHHResults": "Calculation could not be done",
+  "userNotFound": "User not found",
+  "internalError": "Internal error",
+  "wrongCredentials": "Wrong Credentials",
+  "tooManyRequests": "Too many attempts for this account, please try again later",
+  "badrequest": "Please check the submitted info or contact support"
+}

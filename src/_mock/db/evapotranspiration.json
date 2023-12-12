@@ -1,0 +1,21 @@
+{
+  "data": [
+      {
+          "_id": "04150d5708fa5e593e09ed66022195b6",
+          "farm_id": "c86c08485db7bc26177d0811c24e53ee",
+          "user_id": "8bfff767a250c57027380b62d08668a2",
+          "register_date": "2023-01-09T07:32:36.454Z",
+          "carbon_footprint": "200",
+          "evotranspiration": "484",
+          "start_date": "2022-08-01",
+          "end_date": "2022-12-31",
+          "hectares": "20",
+          "tons": "600",
+          "product_id": "f53f3cdc603b5015c305bfac79e6a7cc",
+          "product_name": "Caña",
+          "score": "0",
+          "status": "Pending"
+      }
+  ],
+  "total": 1
+}

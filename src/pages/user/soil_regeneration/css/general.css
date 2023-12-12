@@ -1,0 +1,209 @@
+#boxSoil_Regeneration {
+  display: grid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* padding: 121.846px 43.5165px 124.022px 130.549px; */
+  padding: 1.8% 3.85% 10.99% ;
+  gap: 1.33%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background: var(--COLOR_BACKGROUND_BODY_98);
+  mix-blend-mode: normal;
+  border-radius: 16px;
+}
+
+#boxSoil_Regeneration_two {
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  /* padding: 121.846px 43.5165px 124.022px 130.549px; */
+  padding: 1.8% 13% 10.99% ;
+  gap: 1.33%;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  background: var(--COLOR_BACKGROUND_BODY_98);
+  mix-blend-mode: normal;
+  border-radius: 16px;
+}
+
+#boxSoil_Regeneration_tex1{
+  display: flex;
+  align-items: center;
+  padding: 0% 5.66% 0% 5.67%;
+  gap: 0.5%;
+  width: 100%;
+  height: 100%;
+  background: var( --COLOR_BACKGROUND_BODY_98 );
+  border-radius: 16px;
+  color: black;
+  text-align: center;
+}
+#boxSoil_Regeneration_tex2{
+  color: black;
+  text-align:center ;
+
+}
+#boxSoil_Regeneration_tex3{
+  color: black;
+  text-align:left;
+  
+
+}
+#boxSoil_Regeneration_tex4{
+  color: black;
+  
+  
+
+}
+
+#boxSoil_Regeneration_text_tittle{
+  text-align:center ;
+
+}
+
+#boxSoil_Regeneration_colorBox{
+  
+  padding: 2% 5.66% 0% 5.67%;
+  background: var(--COLOR_GRADIANTE);
+  text-align: center;
+
+}
+
+#boxSoil_Regeneration_ImageBox{
+  display: grid;
+  place-items: center;
+  margin: 0 auto; 
+  width: 100%;
+  height: 100%;
+ 
+}
+
+.boxSoil_Regeneration_CardBox{
+  display: grid;
+  place-items: center;
+  margin: 0 auto; 
+  width: 100%;
+  height: 100%;
+  background-color: #F9F2EC;
+  color: black;
+ 
+}
+
+
+
+/* Button */
+
+
+.ButtonFirst {
+  cursor: pointer;
+  min-width: 8.58vw;
+  min-height: 3.77vh;
+  max-width: 100%;
+  max-height: 100%;
+  filter: drop-shadow(0px 3.86161px 3.86161px rgba(0, 0, 0, 0.5));
+  background: var(--COLOR_GRADIANTE);
+  border: solid var(--COLOR_GRADIANTE);
+  box-shadow: 0px 3.86161px 3.86161px rgba(0, 0, 0, 0.25);
+  border-radius: 19.308px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13.5156px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 0.02em;
+  color: var(--COLOR_TEXTO_PRIMARIO_95);
+}
+
+.ButtonSecond {
+  cursor: pointer;
+  min-width: 8.58vw;
+  min-height: 3.77vh;
+  max-width: 100%;
+  max-height: 100%;
+  box-sizing: border-box;
+  background: none;
+  border: 1.9308px solid var(--COLOR_PRIMARIO);
+  filter: drop-shadow(0px 3.86161px 3.86161px rgba(0, 0, 0, 0.25));
+  border-radius: 22.2043px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13.5156px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 0.02em;
+  color: var(--COLOR_PRIMARIO);
+}
+
+.ButtonThird {
+  cursor: pointer;
+  min-width: 8.58vw;
+  min-height: 3.77vh;
+  max-width: 100%;
+  max-height: 100%;
+  box-sizing: border-box;
+  background: var(  --COLOR_BACKGROUND_SECUND_CHOISE);;
+  border: solid var(  --COLOR_BACKGROUND_SECUND_CHOISE);
+  border-radius: 19.308px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13.5156px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  letter-spacing: 0.02em;
+  color: black;
+  box-shadow: 0px 3.86161px 3.86161px rgba(0, 0, 0, 0.30);
+}
+
+/* Button */
+
+
+
+.ButtonFirst:active {
+  background: var(--COLOR_GRADIANTE);
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.ButtonFirst:hover {
+  /* background-color: var(--COLOR_PRIMARIO_LIGHT); */
+  background: var(--COLOR_PRIMARIO_LIGHT);
+  color: var(--COLOR_AZUL_MARINO_OSCURO);
+}
+
+.ButtonSecond:active {
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+.ButtonSecond:hover {
+  color: var(--COLOR_PRIMARIO_LIGHT);
+  border: solid var(--COLOR_PRIMARIO_LIGHT);
+  text-shadow: 2px 2px 5px rgba(23, 43, 77, 0.5);
+}
+
+
+
+.ButtonThird:hover{
+  color: var(--COLOR_BACKGROUND_SECUND_CHOISE_LIGHT);
+  border: solid var(--COLOR_BACKGROUND_SECUND_CHOISE_LIGHT);
+  text-shadow: 2px 2px 5px rgba(23, 43, 77, 0.5);
+}
+
+
+

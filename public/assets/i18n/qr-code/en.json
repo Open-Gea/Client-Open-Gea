@@ -1,0 +1,49 @@
+{
+    "title":"My QR",
+    "title2":"Generated QR Code",
+    "buttons":{
+        "notCompleted":"Not Completed",
+        "generateQR":"Generate QR",
+        "downloadImage":"Download as a Image",
+        "downloadPdf":"Download as a PDF",
+        "openView": "Open Qr view"
+    },
+    "labels": {
+        "name": "Name and Lastname",
+        "email": "Email",
+        "phone": "Phone",
+        "photos": "Photos",
+        "videos": "Videos",
+        "country": "Country",
+        "lastname": "Last Name",
+        "description": "Description",
+        "selectFarm":"Select a Farm",
+        "carboonWaterFootPrint":"Carbon Footprint and Hydric Footprint",
+        "waterFootPrint":"Hydric Footprint",
+        "carboonFootPrint":"Carbon Footprint",
+        "envCertificates":"Environmental Certificates",
+        "personalData":"Personal Data"
+    },
+    "footprintProducts": {
+        "Cebolla ": "Onion",
+        "Zanahoria":"Carrot",
+        "lechuga ":"Lettuce",
+        "Yuca ": "Yucca",
+        "Piña ": "Pineapple",
+        "Trigo ": "Wheat",
+        "Café ": "Coffee",
+        "Papa": "Potato",
+        "Repollo": "Cabbage",
+        "camote ": "sweet potato",
+        "Banana año 1 ": "Banana year 1",
+        "Tomate": "Tomato",
+        "Remolocha ":"Beets",
+        "Uvas ":"Grapes",
+        "Maíz":"Corn",
+        "cítricos":"Citrics",
+        "Soya":"Soy",
+        "Arroz":"Rice",
+        "Caña":"Cane",
+        "Pimiento":"Bell pepper"
+      }
+}

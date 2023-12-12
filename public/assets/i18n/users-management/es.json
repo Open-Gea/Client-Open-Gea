@@ -1,0 +1,55 @@
+{
+  "title": "Administración",
+  "title2": "Administración de Usuarios",
+  "farmDetails": {
+    "title": "Ubicación de la finca",
+    "farmLabel": "Finca",
+    "ownerLabel": "Propietario",
+    "countryLabel": "País"
+  },
+  "inputs": {
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "country": "País",
+    "findUser": "Buscar Usuario",
+    "saveNewFarm": "Guardar",
+    "saveEditFarm": "Guardar Cambios",
+    "filterTooltip": "Filtrar",
+    "home":"Inicio",
+    "ACTIVE":"Activo",
+    "DISABLED":"Inactivo",
+    "remove":"Remover",
+    "give":"Dar",
+    "state":"Estado",
+    "allUsers":"Todos los usuarios",
+    "notFoundUsers":"No hay usuarios encontrados",
+    "notFoundUsers2":"No hay usuarios con el estado seleccionado",
+    "productor":"Productores",
+    "organization":"Organizaciones",
+    "userType":"Tipo de Usuario"
+  },
+  "menuPopover": {
+    "title": "Editar Finca",
+    "edit": "Editar",
+    "delete": "Borrar",
+    "removeAccess": "  Remover Acceso",
+    "addAccess": "Dar Acceso",
+    "confirmAccessRemovalT": "Confirmación de Remoción de Acceso",
+    "confirmAccessRemoval1":"Esta seguro que desea remover el acceso al usuario ",
+    "confirmAccessRemoval2":"? Despues de remover el acceso el usuario no podra acceder a YvY",
+    "confirmAccessT": "Confirmación de Acceso",
+    "confirmAccess1":"Esta seguro que desea dar acceso al usuario ",
+    "confirmAccess2":"? Despues de dar el acceso el usuario podra acceder a YvY"
+  },
+  "usersTable": {
+    "nameHeader": "Nombre",
+    "statusHeader": "Acceso",
+    "countryHeader": "País",
+    "emailHeader": "Correo Electrónico",
+    "phoneHeader": "Número de Teléfono",
+    "sortAsc": "ordenado asc.",
+    "sortDesc": "ordenado desc.",
+    "actions": "Acciones",
+    "registrationDate":"Fecha de Registro"
+  }
+}

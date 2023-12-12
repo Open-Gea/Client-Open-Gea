@@ -1,0 +1,1 @@
+export { Georeferencing as default } from './Georeferencing.jsx';

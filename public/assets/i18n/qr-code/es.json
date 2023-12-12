@@ -1,0 +1,27 @@
+{
+    "title":"Mi QR",
+    "title2":"Código QR Generado",
+    "buttons":{
+        "notCompleted":"No Completado",
+        "generateQR":"Generar QR",
+        "downloadImage":"Descargar como imagen",
+        "downloadPdf":"Descargar como PDF",
+        "openView": "Abrir Vista Qr"
+    },
+    "labels": {
+        "name": "Nombre y Apellido",
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "photos": "Fotos",
+        "videos": "Videos",
+        "country": "País",
+        "lastname": "Apellido",
+        "description": "Descripción",
+        "selectFarm":"Seleccione Finca",
+        "carboonWaterFootPrint":"Huella de carbono y  Huella hídrica",
+        "waterFootPrint":"Huella hídrica",
+        "carboonFootPrint":"Huella Carbono",
+        "envCertificates":"Certificados ambientales",
+        "personalData":"Datos Personales"
+    }
+}

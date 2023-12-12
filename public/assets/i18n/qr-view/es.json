@@ -1,0 +1,20 @@
+{
+    "title": "Mi Perfil",
+    "farmInfo": "Información de la Finca",
+    "owner": "Dueño",
+    "surface": "Superficie",
+    "certificates": "Certificados",
+    "year": "Año",
+    "waterF": "Huella Hídrica",
+    "product": "Producto",
+    "wfLabels": {
+        "seedtime": "Siembra",
+        "harvest": "Cosecha",
+        "tons": "Ton Cosechadas",
+        "ha": "Hectáreas",
+        "blue": "Azul",
+        "green": "Verde",
+        "total": "Total"
+    },
+    "galery": "Galería"
+}

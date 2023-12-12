@@ -1,0 +1,22 @@
+{
+    "titleWeb":"Autodiagnóstico",
+    "title": "Autodiagnóstico De Sostenibilidad",
+    "title2":"Criterios de Sostenibilidad",
+    "chooseOption": "Elige un Criterio",
+    "buttons":{
+        "mag": "Tu MoDeLo (Fundecooperación - MAG)",
+        "smartPlanet": "Smart Planet"
+    },
+    "titles": {
+        "mag": "Autodiagnóstico de Tu MoDeLo (Fundecooperación - MAG)",
+        "smartPlanet": "Autodiagnóstico de Smart Planet"
+    },
+    "actionMessages":{
+        "selectFarm": "Elige una finca",
+        "farmNotSelected": "Debes elegír una finca para comenzar",
+        "notSafe": "Hay cambios sin guardar. Guardalos antes de cambiar de finca o salir"
+    },
+    "yes": "Si",
+    "no": "No"
+    
+}

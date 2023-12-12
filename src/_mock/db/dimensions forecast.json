@@ -1,0 +1,194 @@
+{
+  "dimensions": [
+      {
+          "rt": [
+              "1672272000000"
+          ],
+          "t": [
+              "1690588800000",
+              "1687996800000",
+              "1685318400000",
+              "1682726400000",
+              "1680048000000"
+          ]
+      },
+      {
+          "rt": [
+              "1672185600000"
+          ],
+          "t": [
+              "1690502400000",
+              "1687910400000",
+              "1685232000000",
+              "1682640000000",
+              "1679961600000"
+          ]
+      },
+      {
+          "rt": [
+              "1671580800000"
+          ],
+          "t": [
+              "1689897600000",
+              "1687305600000",
+              "1684627200000",
+              "1682035200000",
+              "1679356800000"
+          ]
+      },
+      {
+          "rt": [
+              "1671408000000"
+          ],
+          "t": [
+              "1689724800000",
+              "1687132800000",
+              "1684454400000",
+              "1681862400000",
+              "1679184000000"
+          ]
+      },
+      {
+          "rt": [
+              "1670976000000"
+          ],
+          "t": [
+              "1689292800000",
+              "1686700800000",
+              "1684022400000",
+              "1681430400000",
+              "1678752000000"
+          ]
+      }
+  ],
+  "meta": {
+      "attributes": {
+          "Grib1_Center": "250",
+          "Grib1_Interval_Name": "product valid, interval = (RT + P1) to (RT + P2)",
+          "Grib1_Interval_Type": "2",
+          "Grib1_Level_Desc": "Specified height level above ground",
+          "Grib1_Level_Type": "105",
+          "Grib1_Parameter": "25",
+          "Grib1_Subcenter": "1",
+          "Grib1_TableVersion": "2",
+          "Grib_Statistical_Interval_Type": "2",
+          "Grib_Variable_Id": "VAR_250-1-2-25_L105_I-78_Day_S2",
+          "coordinates": "reftime time height_above_ground lat lon ",
+          "description": "Precipitation anomaly",
+          "grid_mapping": "LatLon_Projection",
+          "long_name": "Precipitation anomaly (-78_Day) @ Specified height level above ground",
+          "missing_value": "NaN",
+          "units": "K"
+      },
+      "cover-href": "https://api.weather.com/v2/tiler/coverage?products=500:Temperatureanomalyheightaboveground3Month2&t={t}&rt={rt}&apiKey={apiKey}",
+      "data-aggregate-href": "https://api.weather.com/v2/tiler/data-aggregate?products=500:Temperatureanomalyheightaboveground3Month2&t={t}&rt={rt}&lod={lod}&x={x}&y={y}&apiKey={apiKey}",
+      "data-href": "https://api.weather.com/v2/tiler/data?products=500:Temperatureanomalyheightaboveground3Month2&t={t}&rt={rt}&lod={lod}&x={x}&y={y}&apiKey={apiKey}",
+      "defaultValidity": 0,
+      "description": "Seasonal Anomaly Forecast",
+      "dimension": {
+          "geox": {
+              "id": "geox",
+              "primary": false,
+              "type": "float",
+              "unit": "degrees_east"
+          },
+          "geoy": {
+              "id": "geoy",
+              "primary": false,
+              "type": "float",
+              "unit": "degrees_north"
+          },
+          "rt": {
+              "id": "rt",
+              "primary": true,
+              "type": "",
+              "unit": ""
+          },
+          "t": {
+              "id": "t",
+              "primary": false,
+              "type": "double",
+              "unit": "Day since 2016-06-14T00:00:00Z"
+          }
+      },
+      "dimensions": [
+          "t",
+          "geoy",
+          "geox",
+          "rt"
+      ],
+      "label": "Temperatureanomalyheightaboveground3Month2",
+      "tileset": {
+          "Native": {
+              "crs": "EPSG:4326",
+              "envelope": {
+                  "maxX": "180.0",
+                  "maxY": "89.0",
+                  "minX": "-180.0",
+                  "minY": "-89.00100708007812"
+              },
+              "name": "Native",
+              "pixel": {
+                  "h": 716,
+                  "w": 1440
+              },
+              "tile": {
+                  "h": 256,
+                  "w": 256
+              },
+              "tiles": [
+                  {
+                      "height": 3,
+                      "lod": -1,
+                      "width": 6,
+                      "x": 0,
+                      "y": 0
+                  }
+              ],
+              "wgs84envelope": {
+                  "maxX": "180.0",
+                  "maxY": "89.0",
+                  "minX": "-180.0",
+                  "minY": "-89.00100708007812"
+              }
+          },
+          "Web Mercator": {
+              "crs": "EPSG:3857",
+              "name": "Web Mercator",
+              "tile": {
+                  "h": 256,
+                  "w": 256
+              },
+              "tiles": [
+                  {
+                      "height": 1,
+                      "lod": 0,
+                      "width": 1,
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "height": 2,
+                      "lod": 1,
+                      "width": 2,
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "height": 4,
+                      "lod": 2,
+                      "width": 4,
+                      "x": 0,
+                      "y": 0
+                  }
+              ]
+          }
+      },
+      "tilesets": [
+          "Native",
+          "Web Mercator"
+      ],
+      "ttl": 1728000,
+      "updateFrequency": 86400
+  }
+}

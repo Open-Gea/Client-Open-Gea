@@ -1,0 +1,27 @@
+{
+  "data": [
+      {
+          "_id": "7b1016a49a7ca782eb41db7db6482359",
+          "name": "Javolandia",
+          "owner": "Javier",
+          "telephone": "(52)3342578232",
+          "country": "MEX",
+          "ubication": {
+              "lat": "-10",
+              "lng": "-80"
+          }
+      },
+      {
+          "_id": "c86c08485db7bc26177d0811c24e53ee",
+          "name": "Javolandia La Hermosa",
+          "owner": "Javier",
+          "telephone": "(52)3342578232",
+          "country": "MEX",
+          "ubication": {
+              "lat": "19.278252",
+              "lng": "-103.767383"
+          }
+      }
+  ],
+  "total": 2
+}

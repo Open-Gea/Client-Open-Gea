@@ -1,0 +1,34 @@
+{
+    "title": "Irrigation",
+    "title2": "Irrigation Management", 
+    "wateringNeedsIndexLabel": "Watering needs index",
+    "wateringNeedsLabel": "Watering needs",
+    "inputs": {
+      "farm": "Farm",
+      "home": "Home",
+      "myFarms":"My Farms",
+      "irrigation":"Irrigation"
+    },
+    "dontWaterLabel": "Don't water",
+    "moduleHelp": {
+      "aboutTitle": "Description",
+      "aboutParagraphs": [
+        "This functionality provides general information about the watering needs at your location, for 15 days hour by hour throughout the day, during the day and night. To obtain this information you must:",
+        "The values provided by the application are qualitative and quantitative. It provides an irrigation need index and the following descriptions:"
+      ],
+      "list1": [
+        "Click on the \"$t(wateringNeedsLabel)\" button.",
+        "Select the farm for which you require information."
+      ],
+      "list2": [
+        "No Irrigate",
+        "Medium",
+        "High",
+        "Very high"
+      ],
+      "readMoreTitle": "Read More",
+      "readMoreParagraphs": [
+        "The information this application provides comes primarily from IBM Intelligence Suite, a program that provides weather information to anticipate disruptive environmenta conditions, proactively manage risk and develop more sustainable operations. The IBM Environmental Intelligence Suite technology is obtained through techno-spatial tools. IBM Environmental Intelligence Suite is an AI-powered SaaS solution that provides timely, fact-based actionable intelligence to proactively manage the economic impact of severe weather events and climate change, based on the world's most accurate weather data."
+      ]
+    }
+}

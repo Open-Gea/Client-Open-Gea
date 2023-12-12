@@ -1,0 +1,47 @@
+{
+  "title": "Administration",
+  "title2": "Countries Management",
+  "farmDetails": {
+    "title": "Farm location",
+    "farmLabel": "Farm",
+    "ownerLabel": "Owner",
+    "countryLabel": "Country"
+  },
+  "inputs": {
+    "addCountry": "Add Country",
+    "findCountry": "Find Country",
+    "saveNewCountry": "Save",
+    "saveEditCountry": "Save Changes",
+    "filterTooltip": "Filter",
+    "home":"Home",
+    "countriesInformation":"Countries Information",
+    "code":"Country Code",
+    "name":"Name",
+    "linkInfo":"To enter the country code, use the following ",
+    "list":"list",
+    "countries": "Countries"
+  },
+  "menuPopover": {
+    "title": "Edit Country",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelCountry":"Confirm Deletion of Country",
+    "confirmRemCountry":"Are you sure you want to delete the country ",
+    "confirmRem2Country":" ? Once eliminated, it can no longer be used."
+  },
+  "validations": {
+    "requiredName": "Enter a name",
+    "requiredCode": "Please select a country",
+    "selectCountry": "Select a country",
+    "length": "Should have at least {{val}} characters",
+    "noCountries":"No countries found, press 'Add Country' to add a country",
+    "countryExist": "¡The country already exist!"
+  },
+  "countriesTable": {
+    "codeHeader": "Code",
+    "nameHeader": "Name",
+    "sortAsc": "sorted ascending",
+    "sortDesc": "sorted descending",
+    "accions":"Actions"
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "21b090b982717102a5908c2c596a17e9",
+    "name": "HFC 125",
+    "chemical_formula": "CHF2CF3",
+    "gwp": "3500"
+  },
+  {
+    "_id": "21b090b982717102a5908c2c596a655d",
+    "name": "R-410a",
+    "chemical_formula": "HFC-32/HFC-125",
+    "gwp": "2090"
+  },
+  {
+    "_id": "2d322365c8a4ffe80ddd594413399604",
+    "name": "HFC 23",
+    "chemical_formula": "CHF3",
+    "gwp": "14800"
+  },
+  {
+    "_id": "44a704612f3031fb4a555a6a692b0926",
+    "name": "R-22",
+    "chemical_formula": "R22",
+    "gwp": "1765"
+  },
+  {
+    "_id": "53da5544c00b1755bfb191a2ed27848d",
+    "name": "R-12",
+    "chemical_formula": "R12",
+    "gwp": "10900"
+  },
+  {
+    "_id": "5a8cb43ba2c7cffec4b89e9d29e478a3",
+    "name": "PQS",
+    "chemical_formula": "PQS",
+    "gwp": "0"
+  },
+  {
+    "_id": "5e89f0e79188789b805aac47b55eb1c5",
+    "name": "R-507a",
+    "chemical_formula": "R507a",
+    "gwp": "3990"
+  },
+  {
+    "_id": "6a21f47f42f4221d89abcee9182e1504",
+    "name": "HFC 41",
+    "chemical_formula": "CH3F2",
+    "gwp": "92"
+  },
+  {
+    "_id": "6a21f47f42f4221d89abcee9182e2b8f",
+    "name": "PFC 31 10",
+    "chemical_formula": "C4F10",
+    "gwp": "9200"
+  },
+  {
+    "_id": "9d36c8b048ed47e70ea57c6f13094f37",
+    "name": "PFC 143",
+    "chemical_formula": "CF4",
+    "gwp": "6630"
+  },
+  {
+    "_id": "bfb0ab63969d04b4f5606a895ea844a7",
+    "name": "CO2",
+    "chemical_formula": "CO2",
+    "gwp": "1"
+  },
+  {
+    "_id": "bfb0ab63969d04b4f5606a895ea883d1",
+    "name": "Metano",
+    "chemical_formula": "CH4",
+    "gwp": "30"
+  },
+  {
+    "_id": "f17395efc28bfd2d4b8ac4cdac79591e",
+    "name": "Oxido nitroso ",
+    "chemical_formula": "N2O",
+    "gwp": "273"
+  }
+]

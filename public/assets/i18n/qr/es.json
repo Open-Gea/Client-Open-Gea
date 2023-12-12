@@ -1,0 +1,28 @@
+{
+  "title": "QR",
+  "moduleHelp": {
+    "aboutTitle": "Descripción",
+    "aboutParagraphs": [
+      "YvY tiene como uno de sus objetivos, acercarle el productor al consumidor. El código QR se puede generar seleccionando la información que el usuario de YvY desee mostrar. Podrá seleccionar información personal que figura en el perfil como de cultivos o de toda la finca. La información que seleccione luego se mostrará en un código QR que se podrá imprimir, pegar en los productos y ferias o bien compartir electrónicamente."
+    ]
+  },
+  "labels": {
+    "selectFarm": "Seleccione Finca",
+    "cfAndHf": "Huellas Hidrica y Huellas de Carbono",
+    "carbonF": "Huella de Carbono",
+    "waterF": "Huella Hídrica",
+    "environmentCert": "Certificados Ambientales",
+    "personalData": "Datos Personales",
+    "name": "Nombre y Apellido",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "photos": "Fotos",
+    "phone": "Teléfono",
+    "videos": "Videos",
+    "country": "País", 
+    "description": "Descripción"
+  },
+  "buttons":{
+    "generate": "Generar QR"
+  }
+}

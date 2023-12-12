@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "1ab8798799359eb44098711b3d2cbf17",
+    "country": "Costa Rica",
+    "short": "CRC",
+    "status": "active"
+  },
+  {
+    "_id": "2fb0f3c6c427b83327e33c0a0f0d2fd7",
+    "country": "Argentina",
+    "short": "ARG",
+    "status": "active"
+  },
+  {
+    "_id": "3beb8b30c50690645859db6cfa64aa66",
+    "country": "Panamá",
+    "short": "PAN",
+    "status": "inactive"
+  },
+  {
+    "_id": "40f536e4805db4246bd4823f82bb05f6",
+    "country": "Colombia",
+    "short": "COL",
+    "status": "active"
+  },
+  {
+    "_id": "7bcb535adbf570d8bb34fd83075e8672",
+    "country": "Brasil",
+    "short": "BRA",
+    "status": "active"
+  },
+  {
+    "_id": "c99f02c9a0c205dc24a201a319ca5da9",
+    "country": "México",
+    "short": "MEX",
+    "status": "active"
+  },
+  {
+    "_id": "c99f02c9a0c205dc24a201a319ca7493",
+    "country": "Chile",
+    "short": "CHI",
+    "status": "active"
+  },
+  {
+    "_id": "cefcc5e729f92303f1876e13514a05eb",
+    "country": "Ecuador",
+    "short": "ECU",
+    "status": "active"
+  }
+]

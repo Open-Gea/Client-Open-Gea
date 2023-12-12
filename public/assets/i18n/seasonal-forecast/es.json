@@ -1,0 +1,69 @@
+{
+  "title": "Pronóstico Estacional",
+  "dateLabel": "Fecha y hora",
+  "submitLabel": "Mostrar",
+  "farmInput": {
+    "label": "Finca",
+    "labelHelp": "Finca a calcular"
+  },
+  "forecastTypeInput": {
+    "label": "Tipo de pronóstico",
+    "labelHelp": "Tipo de pronóstico a utilizar",
+    "temperatureLabel": "Pronóstico de Temperatura",
+    "precipitationLabel": "Pronóstico de Precipitación"
+  },
+  "timeRangeInput": {
+    "label": "Rango de tiempo",
+    "labelHelp": "Rango de tiempo",
+    "quarterlyLabel": "Trimestral",
+    "monthlyLabel": "Mensual",
+    "weeklyLabel": "Semanal"
+  },
+  "dateInput": {
+    "label": "Fecha(s)",
+    "labelHelp": "Fecha a calcular"
+  },
+  "temperatureAdvice": {
+    "lower": "Tomar en cuenta estos valores para planificar y/u optimizar la selección de cultivos y variedades de cultivo (más resistentes a la temperatura), labores culturales, fecha de siembra o implantación, previsión de tiempos de cosecha o floraciones variables de acuerdo a estas condiciones.",
+    "higher": "Tomar en cuenta estos valores para planificar y/u optimizar la selección de cultivos y variedades de cultivo (más resistentes a la temperatura), labores culturales, fecha de siembra o implantación, previsión de tiempos de cosecha o floraciones variables de acuerdo a estas condiciones y la posibilidad de necesitar riego.",
+    "equal": "Las temperaturas son las mismas que el promedio actual."
+  },
+  "precipitationAdvice": {
+    "lower": "Tomar en cuenta estos valores para planificar y/u optimizar la selección de cultivos y variedades de cultivo (más resistentes a la falta de agua), labores culturales, fecha de siembra o implantación, previsión de tiempos de cosecha o floraciones variables de acuerdo a estas condiciones y la posibilidad de necesitar riego extra.",
+    "higher": "Tomar en cuenta estos valores para planificar y/u optimizar la selección de cultivos y variedades de cultivo (más resistentes al agua), labores culturales, fecha de siembra o implantación, previsión de tiempos de cosecha o floraciones variables de acuerdo a estas condiciones.",
+    "equal": "La precipitación es la misma que el promedio actual."
+  },
+  "temperatureForecastSummary": {
+    "colder": "Más frío de lo normal",
+    "warmer": "Más cálido de lo normal"
+  },
+  "precipitationForecastSummary": {
+    "less": "Menos precipitaciones de lo normal",
+    "more": "Más precipitaciones de lo normal"
+  },
+  "forecastDescriptionString": {
+    "precipitation": "precipitación",
+    "temperature": "temperatura",
+    "quarterly": "trimestral",
+    "monthly": "mensual",
+    "weekly": "semanal",
+    "higherValue": "será más alta",
+    "lowerValue": "será más baja",
+    "equalValue": "no tiene variaciones",
+    "fullString": "La {{forecastType}} {{timeRange}} solicitada {{variation}}, comparada a los registros historicos promedio para esta ubicación."
+  },
+  "alerts": {
+    "hasErrorTitle": "Error",
+    "hasErrorDescription": "Ha ocurrido un error con la información solicitada. Por favor inténtelo más tarde."
+  },
+  "moduleHelp": {
+    "aboutTitle": "Descripción",
+    "aboutParagraphs": [
+      "Esta funcionalidad tiene como objetivo identificar la desviación de las precipitaciones y las temperaturas en comparación con los registros históricos para las coordenadas precisas de la finca seleccionada. La misma brinda un panorama de aumento o descenso de estas variables, en un rango de tiempo; Semanal, mensual o trimestral. El usuario deberá seleccionar la finca, la variable a comparar (precipitaciones o temperatura), el rango de tiempo del pronóstico. A su vez deberá seleccionar una fecha para dicho rango. Una vez seleccionados todos los campos la aplicación devolverá un análisis correspondiente."
+    ],
+    "readMoreTitle": "Más información",
+    "readMoreParagraphs": [
+      "La información que esta aplicación provee proviene principalmente de IBM Intelligence Suite un programa que brinda información sobre el clima para anticipar condiciones ambientales disruptivas, gestionar el riesgo de manera proactiva y desarrollar operaciones más sostenibles. La tecnología de IBM Intelligence Suite es obtenida a través de herramientas tecno espaciales. IBM Environmental Intelligence Suite es una solución SaaS impulsada por IA que proporciona inteligencia procesable oportuna y basada en hechos para gestionar de forma proactiva el impacto económico de los eventos meteorológicos severos y el cambio climático, basada en los datos meteorológicos más precisos del mundo."
+    ]
+  }
+}

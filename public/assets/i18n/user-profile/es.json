@@ -1,0 +1,37 @@
+{
+    "title":"Perfil Usuario",
+    "titleCooperative":"Perfil Organización",
+    "titlePhoto":"Foto de Perfil",
+    "tittleGalery":"Galeria",
+    "subtitlePhotos":"Mis Fotos",
+    "buttons":{
+        "update":"Actualizar",
+        "edit":"Editar fotos/videos",
+        "save":" Guardar",
+        "add":" Agregar",
+        "change":"Cambiar",
+        "choosePhoto":"Elegir otra foto"
+    },
+    "labels": {
+        "name":"Nombre",
+        "lastName":"Apellido",
+        "user":"Usuario",
+        "phone":"Telefono",
+        "description":"Descripción",
+        "country":"País",
+        "email":"Correo electronico",
+        "helpProfile":"Para cambiar la foto de perfil, haga click en la foto situada al principio del formulario, cámbiela y luego haga click en el botón de abajo para guardar."
+    },
+    "validations":{
+        "nameRequired":"Nombre es requerido",
+        "lastNameRequired":"Apellido es requerido",
+        "validEmail":"Introduce un correo electronico válido",
+        "emailRequired":"Correo electronico es requerido",
+        "phoneNumbers":"Teléfono debe contener sólo números",
+        "phoneNumberRequired":"Teléfono es requerido",
+        "errorData":"Error al obtener los datos del usuario:",
+        "generalError":"Un error ha ocurrido, intente después",
+        "profileUpdated":"Perfil Actualizado",
+        "introduceName":"Introduzca un nombre"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "titles":{
+        "usersRegistered":"Usuarios Registrados por País",
+        "userRegisteredYear":"Usuarios Registrados por Año"
+    },
+    "inputs":{
+        "home":"Inicio",
+        "statistics":"Estadísticas",
+        "usersRegistered":"Usuarios Registrados",
+        "graphInfo1":"El gráfico muestra el número de ",
+        "graphInfo2all":"todos los usuarios registrados en YvY por país",
+        "graphInfo2farmers":"productores registrados en YvY por país",
+        "graphInfo2organizations":"organizaciones registradas en YvY por país",
+        "graphInfo3":", pasa el cursor por encima del gráfico para obtener el número exacto de usuarios.",
+        "graphInfoGeneral":"Este gráfico usa los registros actualizados a la fecha actual.",
+        "allUsers":"Todos los usuarios",
+        "userType":"Tipo de Usuario",
+        "productor":"Productores",
+        "organization":"Organizaciones",
+        "country":"Paises",
+        "allCountries":"Todos los paises",
+        "graphInfo2allR":"usuarios (productores y organizaciones) registrados en YvY en todos los paises",
+        "graphInfo2specifciR":"usuarios (productores y organizaciones) registrados en YvY el país seleccionado",
+        "totalUsers":"Usuarios totales: " 
+    },
+    "graphFields":{
+        "organizations":"Organizaciones",
+        "users":"Usuarios",
+        "years":"Años"
+    }
+}

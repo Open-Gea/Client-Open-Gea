@@ -1,0 +1,97 @@
+{
+  "title": "Water Footprint",
+  "title2": "Water Footprints Management",
+  "inputs": {
+    "farmLabel": "Farm",
+    "footprintSubmit": "Calculate Water Footprint",
+    "allYears":"All Years",
+    "yearLabel": "Year",
+    "home":"Home",
+    "myFarms":"My Farms",
+    "hydricFootprints":"Hydric Footprints",
+    "waterFootprintsMessage":"Please select a farm to get the available water footprints"
+  },
+  "footprintCalcModal": {
+    "title": "Water Footprint Calculation",
+    "productLabel": "Product",
+    "sowDateLabel": "Sow Date",
+    "harvestLabel": "Harvest Date",
+    "tonsLabel": "Tons",
+    "hectaresLabel": "Hectares",
+    "submitButton": "Calculate"
+  },
+  "footprintTable": {
+    "dateHeader": "Request date",
+    "productHeader": "Product name",
+    "detailHeader": "Details"
+  },
+  "footprintProducts": {
+    "Cebolla ": "Onion",
+    "Zanahoria":"Carrot",
+    "lechuga ":"Lettuce",
+    "Yuca ": "Yucca",
+    "Piña ": "Pineapple",
+    "Trigo ": "Wheat",
+    "Café ": "Coffee",
+    "Papa": "Potato",
+    "Repollo": "Cabbage",
+    "camote ": "sweet potato",
+    "Banana año 1 ": "Banana year 1",
+    "Tomate": "Tomato",
+    "Remolocha ":"Beets",
+    "Uvas ":"Grapes",
+    "Maíz":"Corn",
+    "cítricos":"Citrics",
+    "Soya":"Soy",
+    "Arroz":"Rice",
+    "Caña":"Cane",
+    "Pimiento":"Bell pepper"
+  },
+  "footprintDialogResult": {
+    "title": "Calculation Results",
+    "footTotal": "Total Water Footprint:",
+    "footGreen":"Green Water Footprint:",
+    "footBlue":"Blue Water Footprint:"
+  },
+  "footprintResult": {
+    "summaryTitle": "Review summary",
+    "carbonFootprintLabel": "Carbon Footprint",
+    "qrCodeLabel": "QR Code",
+    "requestDate": "Request date",
+    "sowDate": "Sow Date",
+    "harvestDate": "Harvest Date",
+    "totalWaterFootprint": "Total Water Footprint",
+    "greenWaterFootprint": "Green Water Footprint",
+    "blueWaterFootprint": "Blue Water Footprint",
+    "product": "Product",
+    "hectares": "Hectares",
+    "tons":"Tons"
+  },
+  "validations": {
+    "noFarmSelected": "Choose a Farm",
+    "noProductSelected": "Select a product",
+    "noDateSelected": "Enter a Date",
+    "maxSowDate": "Sow date should be before current date",
+    "maxHarvestDate": "Harvest date should be after sow date",
+    "requiredTonsAmount": "Enter tons amount",
+    "requiredHectaresAmount": "Enter hectares amount",
+    "invalidNumber": "Enter a valid number",
+    "greaterThanZero": "Number must be greater than zero",
+    "noCalculationDoneAlert": "You still haven't done any Water Footprint calculations for the selected farm, click on $t(inputs.footprintSubmit) to create one.",
+    "defaultError": "Something went wrong, please try again."
+  },
+  "moduleHelp": {
+    "aboutTitle": "Description",
+    "aboutParagraphs": [
+      "The water footprint calculation offered by YvY is based on crop evapotranspiration accordingto its stage of development. The water footprint represents the water consumption by thecrop over a crop cycle from planting to harvest, and from harvest to harvest in the case ofperennial crops. The calculated Water Footprint corresponds to the blue and the green, andthe Total is the sum of both. The gray one cannot yet be calculated through YvY.",
+      "In order to perform these calculations, climatic data such as total daily precipitation, evapotranspiration and temperatures are needed. Plant irrigation requirement data are also obtained. Irrigation requirement and precipitation data are obtained from Meteostat. To calculate the effective evapotranspiration, the following equations are used to obtain the effective precipitation:"
+    ],
+    "list1": [
+      "Blue WF refers to the consumption of blue water resources (freshwater), surface or groundwater. Consumption refers to the loss of water in available surface water bodies or groundwater aquifers in the basin area. The loss occurs when water evaporates, does not return to the same basin, is disposed of at sea, or is incorporated into a product.",
+      "HH Gray, corresponds to pollution and is not yet calculated.",
+      "Green HH, refers to the consumption of green water resources (rainwater that does not become runoff but is incorporated into agricultural products)."
+    ],
+    "readMoreTitle": "Read More",
+    "list2": ["Effective precipitation (Pe) where Pe=0.8*Precipitation-25 If P>75mm/month and Pe=0.6*P -10 If P<75mm/month"]
+  }
+}

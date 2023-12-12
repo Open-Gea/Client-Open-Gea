@@ -1,0 +1,1 @@
+export { QRView as default } from './QRView.jsx';
