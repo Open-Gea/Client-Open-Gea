@@ -1,16 +1,20 @@
-# Open YvY - Front End
+# Gea Project - Front End v2.0.0
+
+## Origin in YvY
+
+In this project, you will see the word YvY many times. YvY means Earth in Guaraní, just like Gea in ancient Greek. YvY is the original, non-open source project from which Gea is inspired. 
 
 ## Types of Users
 
-   YvY offers two possibilities when registering:
+   Gea offers two possibilities when registering:
 
-- <b> Producer: </b> Control your farms, calculations such as water or carbon footprint, agronomic data, QR code, and among other functions available in YvY.
+- <b> Producer: </b> Control your farms, calculations such as water or carbon footprint, agronomic data, QR code, and among other functions available in Gea.
 
-- <b> Organization: </b> Control the members of your organization and their respective farms, calculations, georeferencing, among other functions available in YvY.
+- <b> Organization: </b> Control the members of your organization and their respective farms, calculations, georeferencing, among other functions available in Gea.
   
-Also, there is an admin role for developers and administrators of YvY:
+Also, there is an admin role for developers and administrators of Gea:
 
-- <b> Administrator: </b> Control the access to YvY, other general data and statistics.
+- <b> Administrator: </b> Control the access to Gea, other general data and statistics.
 
 ## Modules Available
 
@@ -46,13 +50,14 @@ And we have these modules available for Administrators:
 ## Project Roadmap
 
 Participation is welcomed from software developers, designers, testers, agronomists/agri experts/soil experts, IoT engineers, researchers, students, farmers, and others who can help improve the quality and value of the solution for small farmers around the world.
-   
+
+Please check the issues to see how you can contribute to the project
 
 ## Getting Started
 
 ### Technologies
 
-The main technology used in client yvy app are:
+The main technology used in client gea app are:
 
 *  <div style="display: flex; justify-items: center;">
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react.js" width="20" height="20" style="margin-right: 10px;">
@@ -90,17 +95,17 @@ The main technology used in client yvy app are:
     <p style="color:white; padding-left:10px;">For building and developments tools</p>
 </div>
 
-##  Open YvY - App Setup Guide
+##  Gea App - Setup Guide
 
 ### Cloning the Repository
 
 
 ```
-https://github.com/Open-YvY/Client-Open-YvY
+https://github.com/Gea-Project/Client-Gea
 ```
 
 ```
-cd yvy-app
+cd gea-app
 ```
 
 ### Dependencies Installation
@@ -110,12 +115,12 @@ _You require [npm](https://phoenixnap.com/kb/install-node-js-npm-on-windows) ins
 npm install
 ```
 
-### Running the Client YvY Locally
+### Running the Client Gea Locally
 
-To set up and run the yvy-app for a local environment:
+To set up and run the gea-app for a local environment:
 
 
-- Create a `.env` file in the root directory of your `yvy-app` and populate with the following:
+- Create a `.env` file in the root directory of your `gea-app` and populate with the following:
    
 ```js
 

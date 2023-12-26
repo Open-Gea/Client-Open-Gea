@@ -1,5 +1,5 @@
 {
-  "name": "yvy-app",
+  "name": "gea-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,6 +14,18 @@
     "format+lint": "prettier \"src/**/*.{js,jsx,ts,tsx,css,scss}\" --write && eslint src --ext .js,.jsx,.ts,.tsx --fix",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gea-Project/Client-Gea"
+  },
+  "author": "Fundacion Plan21",
+  "description": "Free solution for regenerative agriculture",
+  "keywords": ["gea-project", "plan21", "regenerative", "agriculture", "yvy"],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Gea-Project/Client-Gea/issues"
+  },
+  "homepage": "https://github.com/Gea-Project/Client-Gea#readme",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
