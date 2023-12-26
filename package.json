@@ -16,16 +16,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gea-Project/Client-Gea"
+    "url": "git+https://github.com/open-gea/Client-Gea"
   },
   "author": "Fundacion Plan21",
   "description": "Free solution for regenerative agriculture",
-  "keywords": ["gea-project", "plan21", "regenerative", "agriculture", "yvy"],
+  "keywords": ["open-gea", "plan21", "regenerative", "agriculture", "yvy"],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Gea-Project/Client-Gea/issues"
+    "url": "https://github.com/open-gea/Client-Gea/issues"
   },
-  "homepage": "https://github.com/Gea-Project/Client-Gea#readme",
+  "homepage": "https://github.com/open-gea/Client-Gea#readme",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

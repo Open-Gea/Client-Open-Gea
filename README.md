@@ -1,4 +1,4 @@
-# Gea Project - Front End v2.0.0
+# Open Gea - Front End v2.0.0
 
 ## Origin in YvY
 
@@ -101,7 +101,7 @@ The main technology used in client gea app are:
 
 
 ```
-https://github.com/Gea-Project/Client-Gea
+https://github.com/open-gea/Client-Gea
 ```
 
 ```
