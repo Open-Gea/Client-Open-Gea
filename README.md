@@ -101,11 +101,11 @@ The main technology used in client gea app are:
 
 
 ```
-https://github.com/open-gea/Client-Gea
+https://github.com/open-gea/Client-Open-Gea
 ```
 
 ```
-cd gea-app
+cd client-open-gea
 ```
 
 ### Dependencies Installation
@@ -120,7 +120,7 @@ npm install
 To set up and run the gea-app for a local environment:
 
 
-- Create a `.env` file in the root directory of your `gea-app` and populate with the following:
+- Create a `.env` file in the root directory of your `client-open-gea` and populate with the following:
    
 ```js
 
