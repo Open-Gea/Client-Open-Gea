@@ -145,6 +145,9 @@ npm run dev
 
 ## Contributors
 
+<a href="https://github.com/Open-Gea/Client-Open-Gea/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Open-Gea/Client-Open-Gea" />
+</a>
 
 ## Contributing
 
